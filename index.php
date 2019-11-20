@@ -63,7 +63,7 @@
   
   
    <section id="secao2" class="slide">
-<div><h1 class="Texto313" style="text-align:center">Projetos</h1><br></div>
+<div><h1 class="Texto313" style="text-align:center">Perguntas</h1><br></div>
   
    <section id="secao1322" class="slide" >
 	
@@ -77,9 +77,20 @@
 	 
 	  
 	  
-	  <p>Mitocôndrias </p><br>
- Um trabalho Interdisciplinar realizados nas aulas de banco de dados, onde se foi dividido por meio de um “leilão” de cada uma das organelas presentes nas células. Foi realizado em grupo onde se foi feito um banco de dados da organela, mostrando oque está contido e oque contem a organela. 
+	  <p>Faça sua pergunta: </p><br>
+ <form action="Formulario.php"><fieldset id="dadosUsuario" style="border:none;text-align:center;">
  
+<fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Pergunta</legend>
+  
+  <TextArea name="Mensagem" id="Sassu" cols="60" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+    <br>  
+  </fieldSet>
+
+  <button onclick="Senvia()" ><a href="indes.html" style="text-decoration:none;">Enviar</a></button> <button onclick="Sancelar" ><a href="" style="text-decoration:none;">Cancelar</a></button> 
+
+	 
+
+	</fieldset></form>
 	
 	  </div>
 	 </div>  
@@ -92,112 +103,6 @@
 
 
 
-   <section id="secao1322" class="slide" >
-	
-
-	 
-	 <aside id="lateral20_11" >
-	<div id="sobre">
-	 <div class="div1111"><img src="shell script.gif"></div>
-	  <div class="div2111">
-	  
-	 
-	  
-	  
-	  <p>Shell Script - RPG </p><br>
-
-Um projeto da matéria de fundamentos de informática, onde está sendo feito uma lista de comandos “Linux” para entender mais sobre esses conceitos, como um mini projeto estou fazendo uma saga RPG, que está sendo iniciada no shell script, onde se foi feito uma introdução ao próximo jogo.
-
- 
-	 
-	  
-	  </div>
-	 </div>  
-
-	</aside>
-  </section>
-  
-  
-     <section id="secao1322" class="slide" >
-	
-
-	 
-	 <aside id="lateral20_11" >
-	<div id="sobre">
-	 <div class="div1111"><img src="starbucks.gif"></div>
-	  <div class="div2111">
-	  
-	 
-	  
-	  
-	  <p>Starbucks – Roteiro Reunião	</p><br>
-	
-
-Esse foi um trabalho escolar com principal objetivo saber se portar em uma reunião. Foi feito sobre tema livre, nosso grupo fez sobre uma empresa de café que queria derrubar sua concorrente. Se foi feito um roteiro português/inglês. 
-
-
-	 
-	  
-	  </div>
-	 </div>  
-
-	</aside>
-  </section>
-  
-  
-  
-
-  </section>
-  <section id="secao2" class="slide">
-
-
-   <section id="secao1322" class="slide" >
-	
-
-	 
-	 <aside id="lateral20_11" >
-	<div id="sobre">
-	 <div class="div1111"><img src="gitku2.png"></div>
-	  <div class="div2111">
-	  
-	 
-	  
-	  <p>Projetos online com Github e Heroku </p><br>
-Aprendi que melhor que ficar abrindo pasta a pasta, é muito mais fácil realizar isso apenas colocando apenas um link.
-	 
-	  
-	  </div>
-	 </div>  
-
-	</aside>
-  </section>
-  
-  
-     <section id="secao1322" class="slide" >
-	
-
-	 
-	 <aside id="lateral20_11" >
-	<div id="sobre">
-	 <div class="div1111"><img src="pastoral .jpg"></div>
-	  <div class="div2111">
-	  
-	 
-	  
-	  
-	 <p>Projeto Social</p><br>
-Frequentemente realizo um serviço social na pastoral dos coroinhas e cerimoniarios na paroquia são Paulo apostolo no zaira. 
-
- 
-	 
-	  
-	  </div>
-	 </div>  
-
-	</aside>
-  </section>
-  
-  
   
 
   </section>
@@ -250,7 +155,7 @@ Frequentemente realizo um serviço social na pastoral dos coroinhas e cerimoniar
 
 	 
 
-	
+	</fieldset></form>
 
 </div>
 	</footer> 
@@ -504,7 +409,7 @@ Frequentemente realizo um serviço social na pastoral dos coroinhas e cerimoniar
 
 	 
 
-	
+	</fieldset></form>
 
 </div>
 	</footer> 
@@ -703,6 +608,8 @@ Meu principal objetivo é me formar na área de Programação, especificamente d
   <button onclick="Senvia()" ><a href="indes.html" style="text-decoration:none;">Enviar</a></button> <button onclick="Sancelar" ><a href="" style="text-decoration:none;">Cancelar</a></button> 
 
 	 
+
+	</fieldset></form>
 
 	
 

@@ -6,14 +6,14 @@ let sobre_html = document.querySelector('#sobrehtml')
 	index_html.style.display = "none"
 	sobre_html.style.display = "none"
 mitocondrias_html.style.display = "block"
-charge_my_url()
+
 var stateObj = { foo: "bar" };
 function change_my_url()
 {
    history.pushState(stateObj, "Mittocndrias", "Mitocondrias");
 }
-var link = document.getElementById('click');
-link.addEventListener('click', change_my_url, false);
+charge_my_url()
+
 	
 }
 function index() {	
@@ -23,14 +23,14 @@ let sobre_html = document.querySelector('#sobrehtml')
 	index_html.style.display = "block"
 	sobre_html.style.display = "none"
 mitocondrias_html.style.display = "none"
-charge_my_url()
+
 var stateObj = { foo: "bar" };
 function change_my_url()
 {
    history.pushState(stateObj, "Mittocndrias", "Index");
 }
-var link = document.getElementById('click');
-link.addEventListener('click', change_my_url, false);
+charge_my_url()
+
 		
 }
 function sobre() {	
@@ -40,14 +40,14 @@ let sobre_html = document.querySelector('#sobrehtml')
 	index_html.style.display = "none"
 	sobre_html.style.display = "block"
 mitocondrias_html.style.display = "none"
-charge_my_url()
+
 var stateObj = { foo: "bar" };
 function change_my_url()
 {
    history.pushState(stateObj, "Mittocndrias", "Sobre");
 }
-var link = document.getElementById('click');
-link.addEventListener('click', change_my_url, false);
+charge_my_url()
+
 		
 }
 function scrollBanner() {

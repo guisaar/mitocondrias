@@ -14,7 +14,6 @@
 </script>
 
 
-
 </head>
 <body class="avadaKedabra">
 
@@ -33,7 +32,7 @@
 <li><a onclick="sobre()" href="#" class="active3">Sobre </a></li>
     <li><a onclick="index()" href="#" class="active3" id="menuimg" >Banco de Dados</a></li>
   
-  <li><a onclick="Mitocondrias()" href="#" class="active3" >Mitocondrias</a></li>
+  <li><a onclick="Mitocondrias()" href="#" class="active3" style="background-image:url('banner2sad5.png')"><font style="visibility:hidden">Mitocondrias</font></a></li>
   
    
    
@@ -78,18 +77,9 @@
 	 
 	  
 	  
-	  <p>Mitocôndrias <a href="#" id='click'>Click to change url to bar.html</a></p><br>
+	  <p>Mitocôndrias </p><br>
  Um trabalho Interdisciplinar realizados nas aulas de banco de dados, onde se foi dividido por meio de um “leilão” de cada uma das organelas presentes nas células. Foi realizado em grupo onde se foi feito um banco de dados da organela, mostrando oque está contido e oque contem a organela. 
  
-<script type="text/javascript">
-var stateObj = { foo: "bar" };
-function change_my_url()
-{
-   history.pushState(stateObj, "page 2", "Mitocondrias");
-}
-var link = document.getElementById('click');
-link.addEventListener('click', change_my_url, false);
-</script>
 	
 	  </div>
 	 </div>  
@@ -734,6 +724,7 @@ Meu principal objetivo é me formar na área de Programação, especificamente d
 	 </div>
   </main>
   
+
 <script type="text/javascript" src="script2.js"></script>
 </body>
 </html>

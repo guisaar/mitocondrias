@@ -12,7 +12,7 @@ function change_my_url()
 {
    history.pushState(stateObj, "Mittocndrias", "Mitocondrias");
 }
-charge_my_url()
+charge_my_url
 
 	
 }
@@ -29,7 +29,7 @@ function change_my_url()
 {
    history.pushState(stateObj, "Mittocndrias", "Index");
 }
-charge_my_url()
+charge_my_url
 
 		
 }
@@ -46,7 +46,7 @@ function change_my_url()
 {
    history.pushState(stateObj, "Mittocndrias", "Sobre");
 }
-charge_my_url()
+charge_my_url
 
 		
 }

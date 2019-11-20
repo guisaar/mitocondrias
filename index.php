@@ -6,7 +6,7 @@
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Portifolio</title>
+    <title>Mitocondrias</title>
     <link href='https://fonts.googleapis.com/css?family=Raleway:900,300' rel='stylesheet' type='text/css'>
     <link rel="stylesheet" type="text/css" href="style.css"> <link rel="stylesheet" type="text/css" href="ScriptCine.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
@@ -78,19 +78,22 @@
 	  
 	  
 	  <p>Faça sua pergunta: </p><br>
- <form action="Formulario.php"><fieldset id="dadosUsuario" style="border:none;text-align:center;">
- 
-<fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Pergunta</legend>
-  
-  <TextArea name="Mensagem" id="Sassu" cols="60" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
-    <br>  
-  </fieldSet>
 
-  <button onclick="Senvia()" ><a href="indes.html" style="text-decoration:none;">Enviar</a></button> <button onclick="Sancelar" ><a href="" style="text-decoration:none;">Cancelar</a></button> 
+<fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Pergunta</legend>
+  <form name="frmFaleConosco" action="enviar.php" method="post">
+
+ <TextArea name="txtNome" id="Perguntatendeu" cols="60" rows="1" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+
+</form>
+ 
+<input type="submit" onclick="resposta()">
+ 
+
+<button onclick="resposta()">Enviar</button> <button onclick="notresposta" >Cancelar</button> 
 
 	 
 
-	</fieldset></form>
+	</fieldset>
 	
 	  </div>
 	 </div>  
@@ -173,6 +176,137 @@
 	
 	 
 	 </div>
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	  <div class="content" id="Pergunta1" style="display:none">
+
+  
+
+  
+  
+   <section id="secao2" class="slide">
+<div><h1 class="Texto313" style="text-align:center">Perguntas</h1><br></div>
+  
+   <section id="secao1322" class="slide" >
+	
+
+	 
+	 <aside id="lateral20_11" >
+	<div id="sobre">
+	 <div class="div1111"><img src="mitoc.gif"></div>
+	  <div class="div2111">
+	  
+	 
+	  
+	  
+	<h1>Select from</h1>
+	
+	  </div>
+	 </div>  
+
+	</aside>
+  </section>
+  
+  
+  
+
+
+
+  
+
+  </section>
+   
+  
+  
+
+
+  
+
+  
+    	
+  
+  
+  
+  
+    <section id="secao21" class="slide">
+
+   
+<footer id="rodape" class="text" >
+		<h1 class="Texto" style="text-align:center" id="contato">Contato</h1><br>
+<div style="">
+
+
+ Desenvolvido por:Guilherme Saar <br>
+  <br> 
+ Proibido a distribuição ou reprodução do produto sem autorização<br>
+  <br> 
+<a href="https://www.facebook.com/guilherme.saar.7" class="fa fa-facebook"></a> Facebook <br> <br>
+
+<a href="#" class="fa fa-google"></a> Gmail<font style="visibility:hidden">ook</font> <br>
+</div>
+	
+<div style="">	
+
+
+<form action="Formulario.php"><fieldset id="dadosUsuario" style="border:none;text-align:center;">
+    <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Email</legend>
+   
+ 
+  <input type="email" name="EmailRetorno" id="SEmail"maxlength="80" placeholder="MickeyMouse@gmail.com"> <br> 
+  <br>    
+<fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
+  
+  <TextArea name="Mensagem" id="Sassu" cols="60" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+    <br>  
+  </fieldSet>
+
+  <button onclick="Senvia()" ><a href="indes.html" style="text-decoration:none;">Enviar</a></button> <button onclick="Sancelar" ><a href="" style="text-decoration:none;">Cancelar</a></button> 
+
+	 
+
+	</fieldset></form>
+
+</div>
+	</footer> 
+
+
+  </section>
+
+
+
+	
+	
+	
+	
+	
+	
+	 
+	 </div>
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
 	 
 	 
 	 

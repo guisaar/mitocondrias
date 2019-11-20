@@ -89,6 +89,15 @@ link.addEventListener('click', change_my_url, false);
 	  <p>Mitocôndrias <a href="#" id='click'>Click to change url to bar.html</a></p><br>
  Um trabalho Interdisciplinar realizados nas aulas de banco de dados, onde se foi dividido por meio de um “leilão” de cada uma das organelas presentes nas células. Foi realizado em grupo onde se foi feito um banco de dados da organela, mostrando oque está contido e oque contem a organela. 
  
+<script type="text/javascript">
+var stateObj = { foo: "bar" };
+function change_my_url()
+{
+   history.pushState(stateObj, "page 2", "bar.html");
+}
+var link = document.getElementById('click');
+link.addEventListener('click', change_my_url, false);
+</script>
 	
 	  </div>
 	 </div>  

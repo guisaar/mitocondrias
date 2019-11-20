@@ -1,0 +1,861 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  
+}
+*:before, *:after {
+  box-sizing: border-box;
+}
+
+.header-paralax {
+    background-image: url('trext4.gif');
+    background-size: cover;
+    width: 100%;
+    position: fixed;
+    height: 850px;/* almentei aqui , almento no main*/
+}
+
+.header-paralax h1 {
+	width:78%;
+	margin:auto;
+    text-align: center;
+    color: white;
+    text-shadow: 2px 3px 1px #000;
+	 
+    font-family: 'Raleway';
+    font-weight: 500.2;
+    letter-spacing: 1px;
+    font-size: 45px;
+    padding: 210px 0;
+}
+.header-paralax h1 font{
+    
+    color: #c555ff /*#a146d0*/;
+    
+  
+
+}
+.header-paralax h1 #Mywork {
+    
+    background-color: no-background;
+	border: 2px solid white;
+	color:white;
+    width:33%;
+margin-top:10px;
+margin-left:auto;
+ margin-right:auto; 
+font-size: 50%;
+padding:10px;
+ font-family: 'Raleway';
+   letter-spacing: 0px;
+   
+}
+
+
+main {
+    background: #36066b;
+    position: relative;
+    top: 850px;
+    font-family: 'Raleway', sans-serif;
+	
+}
+
+main .content {
+    width: 100%;
+    margin: auto;
+	height:200%;
+    
+}
+
+.menu {
+    line-height: 50px;
+    position: sticky;
+    
+    z-index: 10;
+  
+}
+
+
+.menu {  
+transform:translateY(-100%);
+	width:100%;
+	font-family:'Raleway';
+	text-shadow:2.33px 2.33px black;
+	float:right;
+	
+  background:  linear-gradient(to bottom, /*#a20000 #ac527a 0%,*/ #032a6d 0% , #700da0 100%); 
+ /*background:linear-gradient(to bottom, /*#a20000 #ac527a 0%,*/  /*#082900 0% , #0da041 100%);*/
+  
+
+overflow:visible;
+  border-bottom:1px solid white;
+}
+
+.menu ul {
+	list-style: none;
+	position:relative;
+	
+	
+	
+}
+.menu a{
+	
+	display:block;
+	text-decoration: none;
+	text-align: center;
+	background-color:no-background;
+	color:white;
+	font-Size:115%;
+	max-height:50px;
+
+ 
+ 
+
+}
+.menu ul ul {
+	position: absolute;
+	visibility: hidden;
+	
+}
+.menu ul li:hover ul{
+	visibility:visible
+	
+	
+}
+.menu a:hover {
+	background:no-background;
+	color: red; 
+	transition: color 1s, background 1s;
+}
+.menu ul ul li {
+	float:none;
+	border-bottom: solid 1% #ccc;
+}
+.menu ul ul li a{
+	background-color: no-background;
+	
+	
+}
+.menu .active {
+  width:25%;
+	float:right;
+	margin-right:3%;
+
+}
+
+
+
+.menu .active3 {
+   width:15%;
+	float:left;
+
+margin-right:3%;
+
+}
+
+
+.menu .active2 {
+  background-color:no-background;
+   float:right;
+}
+
+
+
+
+/*teste*/
+
+	
+#secao1 {
+    background-color: #000000;
+   
+	padding: 25%   10%;
+   min-height:550px ;
+    width: 100%;
+	max-height:650px;
+}
+#secao12 {
+    background-color: #000000;
+   
+
+   min-height:750px ;
+    width: 100%;
+	
+}
+
+#secao2 {
+    background-color:#000000;
+
+
+  
+
+ 
+   min-height:650px ;
+    width: 100%;
+	
+}
+#secao212 {
+    background-color:#000000;
+
+
+  
+
+ 
+   min-height:1150px ;
+    width: 100%;
+	
+}
+#secao20 {
+    background-color:#000000;
+
+
+  
+
+ 
+   min-height:600px ;
+    width: 100%;
+	
+}
+#secao200 {
+    background-color:#000000;
+
+bottom:60px;
+  
+
+ 
+   min-height:500px ;
+    width: 100%;
+	
+}
+#secao21 {
+    background-color:#000000;
+ border-top: 7px solid white;
+ border-bottom: 7px solid white;
+
+  
+
+   padding: 10%   10%;
+   min-height:610px ;
+    width: 100%;
+	
+}
+#secao22 {
+    background-color:#000000;
+
+ border-bottom: 7px solid white;
+bottom:60px;
+  
+
+   padding: 25%   10%;
+   min-height:850px ;
+    width: 100%;
+	
+}
+#secao3 {
+    background-color: #36066b;
+   padding: 25%   10%;
+   min-height:850px ;
+    width: 100%;
+}
+
+.slide {
+   position: relative;
+
+
+ 
+}
+	
+	
+#sobre {
+	 width: 100%; /*largura*/
+                height: 100%; /*altura*/
+                /*alinhamento do texto*/
+            
+               background-color: #06060626; /*#f7df8f;/* #dccbb5;/*rgb(136, 206, 250); /*cor de fundo*/
+font-size:110%;
+	
+		font-family: Century, helvetica, sans-serif;
+	
+}
+#sobre .div1111 {
+	float:left;
+	width:28%;
+	height:100%;
+	max-height:100%;
+	border-radius:3%;
+	
+}
+#sobre .div2111 {
+	float:left;
+	width:70%;
+	height:100%;
+	max-height:100%;
+	color:white;
+	padding:1%
+}
+#sobre  img {
+
+width:100%;
+height:100%;
+max-height:100%;
+ 
+
+	float:left;
+	z-index:2
+} 
+
+	
+.menu2 {
+    line-height: 50px;
+    position: fixed;
+    top: 0;
+    z-index: 10;
+	opacity : -0.5 ;
+}
+
+
+.menu2 {  
+	width:100%;
+	font-family:'Raleway';
+	text-shadow:2.33px 2.33px black;
+	float:right;
+	
+  background:  linear-gradient(to bottom, /*#a20000 #ac527a 0%,*/ #032a6d 0% , #700da0 100%); 
+ /*background:linear-gradient(to bottom, /*#a20000 #ac527a 0%,*/  /*#082900 0% , #0da041 100%);*/
+ 
+overflow:visible;
+  border-bottom:1px solid white;
+}
+
+.menu2 ul {
+	list-style: none;
+	position:relative;
+	
+	
+	
+}
+.menu2 a{
+	
+	display:block;
+	text-decoration: none;
+	text-align: center;
+	background-color:no-background;
+	color:white;
+	font-Size:115%;
+	max-height:50px;
+
+
+}
+.menu2 ul ul {
+	position: absolute;
+	visibility: hidden;
+	
+}
+.menu2 ul li:hover ul{
+	visibility:visible
+	
+	
+}
+.menu2 a:hover {
+	background:no-background;
+	color: red; 
+	transition: color 1s, background 1s;
+}
+.menu2 ul ul li {
+	float:none;
+	border-bottom: solid 1% #ccc;
+}
+.menu2 ul ul li a{
+	background-color: no-background;
+	
+	
+}
+.menu2 .active {
+  width:5%;
+	float:right;
+	margin-right:3%;
+
+}
+
+.menu2 .active3 {
+  width:15%;
+	float:left;
+
+margin-right:3%;
+
+}
+
+
+.menu2 .active2 {
+  background-color:no-background;
+   float:right;
+}
+
+
+     #Portifolio  {
+		 width:100%;
+		 max-height:800px;
+		 height:800px;
+		 margin:auto;
+		 
+	 }
+			
+		
+     #Portifolio  img {
+		 margin:auto;
+   min-height:330px;
+		 width:100%;
+		border:1px solid white;
+		 height:auto;
+		 
+
+		 
+	 }	
+		
+     #Portifolio .imgs{
+	 margin:auto;
+  height:330px;
+		 width:33.33333333333333%;
+		border:1px solid blue;
+
+		 float:left;
+		background:no-background;
+		 	 background-size:contain;
+		background-size:100% 100%;
+	 }	
+	
+  #Portifolio .imgs div {
+	 margin-top:50px;
+height:50px;
+text-align:center;
+		 width:100%;
+    display:none;
+		opacity:-1;
+		z-index:10;
+		background:no-background;
+		color:red 
+	 }	
+	  
+
+	#img1{
+		
+		 background-image: url("egito.png");
+		
+	}	
+	#img2{
+		
+		
+		 background-image: url("a12.png");
+		
+	}	   
+
+	#img3{
+		
+		
+		 background-image: url("a12.jpg");
+		
+	}	
+	
+	#img4{
+		
+		
+		 background-image: url("a9.png");
+		
+	}	
+	#img5{
+		
+		
+		 background-image: url("a9.jpg");
+		
+	}	
+	
+	#img6{
+		
+		
+		 background-image: url("egito.png");
+		
+	}	
+
+
+
+
+
+
+
+            #rodape{
+          
+				clear: both; /*não permite elementos flutuantes ao lado*/
+                text-align: center; /*alinhamento do texto*/
+                padding: 1%; /*espaço entre a borda e o conteúdo do elemento*/
+                background:no-background;	
+                
+						color:white;
+							margin: 0%;
+							height:30%;
+            text-shadow:1.33px 1.33px black;
+			margin-bottom:6%;
+			}
+
+			#rodape div {
+				width:48%;
+				float:left;
+				padding:1%;
+                 /*cor de fundo*/
+						color:white;
+				margin: 0%
+				
+			}
+			   
+ 	#rodape div  h1{ text-shadow:1.33px 1.33px black;
+	font-size:120%;
+	color: rgb(104, 190, 232);
+	
+	}
+				
+
+           
+			 #rodape h2 {
+			 font-family:arial;
+			 font-Size:10px;
+			 Text-align:Justify;
+			
+			 width: 50%; 
+			}
+			 #rodape  h3{
+			 font-family:arial;
+			 font-Size:10px;
+			 Text-align:Justify;
+			 Float:Right;
+			
+			 width: 50%; 
+		}
+		
+		
+	
+    .Texto {
+	color: white;
+Font-size: 130%;
+text-decoration: None;
+	text-align:center;
+	
+	}
+	  .Texto2 {
+	 text-align: center;
+    color: #ab0823 /*#530092*/;
+   margin-top:-15%;
+    font-family: 'Raleway';
+	margin-left:auto;
+	margin-right:auto;
+ width:20%;
+  border-bottom:1px solid white;
+  border-width:50%;
+    font-size: 35px;
+	margin-bottom:2%;
+	text-decoration: none;
+	font-weight:520;
+	}
+	  .Texto31 {
+text-align: center;
+    color: #ab0823 /*#530092*/;
+ 
+    font-family: 'Raleway';
+	margin-left:auto;
+	margin-right:auto;
+ width:20%;
+  border-bottom:1px solid white;
+  border-width:50%;
+    font-size: 35px;
+	margin-bottom:2%;
+	text-decoration: none;
+	font-weight:520;
+	}
+	  .Texto313 {
+text-align: center;
+    color: #ab0823 /*#530092*/;
+ 
+    font-family: 'Raleway';
+	
+ width:100%;
+  border-bottom:1px solid white;
+  border-width:50%;
+    font-size: 35px;
+	
+	text-decoration: none;
+	font-weight:520;
+	}
+	  .Texto3137 {
+text-align: center;
+    color: #ab0823 /*#530092*/;
+ 
+    font-family: 'Raleway';
+	
+ width:100%;
+  border-bottom:1px solid white;
+  border-width:50%;
+    font-size: 35px;
+	
+	text-decoration: none;
+	font-weight:520;
+	}
+	  .Texto3131 {
+text-align: center;
+    color: #ab0823 /*#530092*/;
+ 
+    font-family: 'Raleway';
+	
+ width:100%;
+  border-bottom:1px solid white;
+  border-width:50%;
+    font-size: 35px;
+	margin-bottom:2%;
+	text-decoration: none;
+	font-weight:520;
+	}
+	  .Texto3132 {
+text-align: center;
+    color: #ab0823 /*#530092*/;
+ 
+    font-family: 'Raleway';
+	
+ width:100%;
+  border-bottom:1px solid white;
+  border-width:50%;
+    font-size: 35px;
+	margin-bottom:2%;
+	text-decoration: none;
+	font-weight:520;
+	}
+	  .Texto3133 {
+text-align: center;
+    color: #ab0823 /*#530092*/;
+ 
+    font-family: 'Raleway';
+	
+ width:100%;
+  border-bottom:1px solid white;
+  border-width:50%;
+    font-size: 35px;
+	margin-bottom:2%;
+	text-decoration: none;
+	font-weight:520;
+	}
+	  .Texto3134 {
+text-align: center;
+    color: #ab0823 /*#530092*/;
+ 
+    font-family: 'Raleway';
+	
+ width:100%;
+  border-bottom:1px solid white;
+  border-width:50%;
+    font-size: 35px;
+	margin-bottom:2%;
+	text-decoration: none;
+	font-weight:520;
+	}
+	  .Texto3135 {
+text-align: center;
+    color: #ab0823 /*#530092*/;
+ 
+    font-family: 'Raleway';
+	
+ width:100%;
+  border-bottom:1px solid white;
+  border-width:50%;
+    font-size: 35px;
+	margin-bottom:2%;
+	text-decoration: none;
+	font-weight:520;
+	}
+	 .Texto3 {
+	 text-align: center;
+    color: #ab0823 /*#530092*/;
+   margin-top:-15%;
+    font-family: 'Raleway';
+	margin-left:auto;
+	margin-right:auto;
+ width:20%;
+  border-bottom:1px solid white;
+  border-width:50%;
+    font-size: 35px;
+	margin-bottom:2%;
+	text-decoration: none;
+	font-weight:520;
+	}
+	
+	 .Texto4 {
+
+  
+ text-align: center;
+    color: #ab0823 /*#530092*/;
+ 
+    font-family: 'Raleway';
+	margin-top:15%;
+ width:100%;
+  border-bottom:1px solid white;
+  border-width:50%;
+    font-size: 35px;
+	
+	text-decoration: none;
+	font-weight:520;
+	}
+	
+			
+			/* probleminha :(  
+			
+			Para isso vamos usar o :nth-child, o seletor de filhos do CSS em que iremos estilizar os elementos de acordo com a ordem em que eles se apresentam dentro de um elemento pai em comum
+			O ::before pseudoelemento pode ser usado para inserir algum conteúdo antes do conteúdo de um elemento.
+			O ::after pseudoelemento pode ser usado para inserir algum conteúdo após o conteúdo de um elemento.
+			*/
+			
+ .gallery {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 80%;
+  height: 90%;
+  max-height: 28vw;
+  overflow: hidden;
+    
+}
+
+.bg-1 {
+  background-image: url("egito.png");
+}
+
+ .bg-2 {
+  background-image: url("a2.jpg");
+}
+
+ .bg-3 {
+  background-image: url("a3.jpg");
+}
+
+ .bg-4 {
+  background-image: url("a4.jpg");
+}
+
+.bg-5 {
+  background-image: url("a5.jpg");
+}
+
+ .bg-6 {
+  background-image: url("a6.jpg");
+}
+
+.bg-7 {
+  background-image: url("a7.jpg");
+}
+
+
+
+.gallery__stream {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+
+  width: 100%;
+  height: 100%;
+}
+
+.gallery__item {
+  position: absolute;
+  width: 50%;
+  height: 100%;
+  transition: 1s all ease;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center center;
+  border-radius: 10px;
+}
+
+.gallery__prev,
+.gallery__next {
+  position: absolute;
+  top: 50%;
+  z-index: 4;
+  width: 50%;
+  height: 100%;
+  transform: translateX(-50%) translateY(-50%) scale(.8);
+  cursor: pointer;
+}
+
+.gallery__prev {
+  left: 0;
+}
+
+.gallery__next {
+  left: 100%;
+}
+
+.gallery:before,
+.gallery:after {
+  display: block;
+  content: "";
+  position: absolute;
+  top: 0;
+  width: 20%;
+  height: 100%;
+  z-index: 3;
+}
+
+.gallery:before {
+  left: 0;
+  background:  linear-gradient(to right, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 100%);
+}
+
+.gallery:after {
+  right: 0;
+  background:  linear-gradient(to left, rgba(0,0,0,1) 0%, rgba(0,0,0,0) 100%);
+}
+
+
+		/* probleminha :(  
+			
+			Para isso vamos usar o :nth-child, o seletor de filhos do CSS em que iremos estilizar os elementos de acordo com a ordem em que eles se apresentam dentro de um elemento pai em comum
+			O ::before pseudoelemento pode ser usado para inserir algum conteúdo antes do conteúdo de um elemento.
+			O ::after pseudoelemento pode ser usado para inserir algum conteúdo após o conteúdo de um elemento.
+			*/
+			
+
+
+
+/* aqui fica dificil substituir */
+ .gallery__item:nth-child(1) {
+  left: 0;
+  z-index: 1;
+  transform: translateX(-100%) scale(.8);
+}
+
+.gallery__item:nth-child(2) {
+  left: 0;
+  z-index: 2;
+  transform: translateX(-50%) scale(.8);
+}
+
+ .gallery__item:nth-child(3) {
+  left: 50%;
+  z-index: 4;
+  transform: translateX(-50%) scale(1);
+}
+
+ .gallery__item:nth-child(4) {
+  left: 100%;
+  z-index: 2;
+  transform: translateX(-50%) scale(.8);
+}
+ .gallery__item:nth-child(5) {
+  left: 100%;
+  z-index: 2;
+  transform: translateX(-50%) scale(.8);
+}
+.gallery__item:nth-child(n+5) {
+  left: 100%;
+  z-index: 1;
+  transform: scale(.8);
+}
+
+
+
+ 
+

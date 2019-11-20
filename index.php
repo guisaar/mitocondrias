@@ -89,7 +89,7 @@
 <input type="submit" onclick="resposta()">
  
 
-<button onclick="resposta()">Enviar</button> <button onclick="notresposta" >Cancelar</button> 
+
 
 	 
 

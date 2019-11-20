@@ -8,12 +8,12 @@ let sobre_html = document.querySelector('#sobrehtml')
 mitocondrias_html.style.display = "block"
 
 var stateObj = { foo: "bar" };
-function change_my_url()
+function changemyurl()
 {
    history.pushState(stateObj, "Mittocndrias", "Mitocondrias");
    clearInterval(change);
 }
-var change = setInterval(charge_my_url, 100);
+var change = setInterval(chargemyurl, 100);
 }
 function index() {	
 let index_html = document.querySelector('#Index')
@@ -24,12 +24,12 @@ let sobre_html = document.querySelector('#sobrehtml')
 mitocondrias_html.style.display = "none"
 
 var stateObj = { foo: "bar" };
-function change_my_url()
+function changemy()
 {
    history.pushState(stateObj, "Mittocndrias", "Index");
  clearInterval(change);
 }
-var change = setInterval(charge_my_url, 100);
+var change = setInterval(chargemy, 100);
 
 		
 }
@@ -42,12 +42,12 @@ let sobre_html = document.querySelector('#sobrehtml')
 mitocondrias_html.style.display = "none"
 
 var stateObj = { foo: "bar" };
-function change_my_url()
+function changem()
 {
    history.pushState(stateObj, "Mittocndrias", "Sobre");
  clearInterval(change);
 }
-var change = setInterval(charge_my_url, 100);
+var change = setInterval(chargem, 100);
 
 		
 }

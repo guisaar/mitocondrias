@@ -1,3 +1,57 @@
+function resposta() {
+	let pergunta = frmFaleConosco.txtNome.value
+	switch (pergunta) {
+    case "teste":
+    let index_html = document.querySelector('#Index')
+    let mitocondrias_html = document.querySelector('#Mitocondrias')
+    let sobre_html = document.querySelector('#sobrehtml')
+	let Pergunta1  = document.querySelector('#Pergunta1')
+	index_html.style.display = "none"
+	sobre_html.style.display = "none"
+    mitocondrias_html.style.display = "none"
+	Pergunta1.style.display = "block"
+	var stateObj = { foo: "bar" };
+function changldd()
+{
+   history.pushState(stateObj, "Mittocndrias", "Pergunta 1");
+   clearInterval(cmd);
+}
+var cmd = setInterval(changldd, 100);
+    break;
+  case "teste2":
+  
+    break;
+  case "teste3":
+  
+    break;
+  default:
+   
+}
+	
+}
+
+function notresposta() {
+	let resposta = ['not ', 'not2']
+	
+	
+	
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 function Mitocondrias() {	
 let index_html = document.querySelector('#Index')
@@ -109,7 +163,7 @@ function Entrou222(){
 var Img = window.document.getElementById('imgwork')   
 
 
-a222.style.background = "#ae00ffa1 "
+a222.style.background = "#ef0707b8 "
 a222.style.border = "2px solid white "
 a222.style.transition = "border 1s, background 1s"
 var myVar = setInterval(trocaImg, 1);

@@ -13,15 +13,7 @@
 <script src="https://github.com/defunkt/jquery-pjax">
 </script>
 
-<script type="text/javascript">
-var stateObj = { foo: "bar" };
-function change_my_url()
-{
-   history.pushState(stateObj, "page 2", "bar.html");
-}
-var link = document.getElementById('click');
-link.addEventListener('click', change_my_url, false);
-</script>
+
 
 </head>
 <body class="avadaKedabra">
@@ -93,7 +85,7 @@ link.addEventListener('click', change_my_url, false);
 var stateObj = { foo: "bar" };
 function change_my_url()
 {
-   history.pushState(stateObj, "page 2", "bar.html");
+   history.pushState(stateObj, "page 2", "Mitocondrias");
 }
 var link = document.getElementById('click');
 link.addEventListener('click', change_my_url, false);

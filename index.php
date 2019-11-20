@@ -32,7 +32,7 @@
 <li><a onclick="sobre()" href="#" class="active3">Sobre </a></li>
     <li><a onclick="index()" href="#" class="active3" id="menuimg" >Banco de Dados</a></li>
   
-  <li><a onclick="Mitocondrias()" href="#" class="active3" >Mitocondrias<</a></li>
+  <li><a onclick="Mitocondrias()" href="#" class="active3" >Mitocondrias</a></li>
   
    
    

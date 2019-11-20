@@ -11,10 +11,9 @@ var stateObj = { foo: "bar" };
 function change_my_url()
 {
    history.pushState(stateObj, "Mittocndrias", "Mitocondrias");
+   clearInterval(change);
 }
-charge_my_url
-
-	
+var change = setInterval(charge_my_url, 100);
 }
 function index() {	
 let index_html = document.querySelector('#Index')
@@ -28,8 +27,9 @@ var stateObj = { foo: "bar" };
 function change_my_url()
 {
    history.pushState(stateObj, "Mittocndrias", "Index");
+ clearInterval(change);
 }
-charge_my_url
+var change = setInterval(charge_my_url, 100);
 
 		
 }
@@ -45,8 +45,9 @@ var stateObj = { foo: "bar" };
 function change_my_url()
 {
    history.pushState(stateObj, "Mittocndrias", "Sobre");
+ clearInterval(change);
 }
-charge_my_url
+var change = setInterval(charge_my_url, 100);
 
 		
 }

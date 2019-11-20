@@ -9,8 +9,8 @@
 }
 
 .header-paralax {
-    background-image: url('trext4.gif');
-    background-size: cover;
+    background-image: url('banner2sad2.png');
+    background-size: cover;  background-size: 100% 100%;
     width: 100%;
     position: fixed;
     height: 850px;/* almentei aqui , almento no main*/
@@ -31,7 +31,7 @@
 }
 .header-paralax h1 font{
     
-    color: #c555ff /*#a146d0*/;
+    color: #ff0000 /*#a146d0*/;
     
   
 
@@ -84,7 +84,7 @@ transform:translateY(-100%);
 	text-shadow:2.33px 2.33px black;
 	float:right;
 	
-  background:  linear-gradient(to bottom, /*#a20000 #ac527a 0%,*/ #032a6d 0% , #700da0 100%); 
+  background:  linear-gradient(to bottom, /*#a20000 #ac527a 0%,*/ #036d2d 0% , #0da049 100%); 
  /*background:linear-gradient(to bottom, /*#a20000 #ac527a 0%,*/  /*#082900 0% , #0da041 100%);*/
   
 
@@ -320,7 +320,7 @@ max-height:100%;
 	text-shadow:2.33px 2.33px black;
 	float:right;
 	
-  background:  linear-gradient(to bottom, /*#a20000 #ac527a 0%,*/ #032a6d 0% , #700da0 100%); 
+  background:  linear-gradient(to bottom, /*#a20000 #ac527a 0%,*/ #036d2d 0% , #0da049 100%); 
  /*background:linear-gradient(to bottom, /*#a20000 #ac527a 0%,*/  /*#082900 0% , #0da041 100%);*/
  
 overflow:visible;

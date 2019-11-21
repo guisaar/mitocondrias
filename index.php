@@ -29,7 +29,7 @@
   
    <nav class="menu2">
 	<ul>
-<li><a onclick="sobre()" href="#" class="active3">Sobre </a></li>
+<li><a onclick="sobre()" href="#" class="active3">Pergunta </a></li >
     <li><a onclick="index()" href="#" class="active3" id="menuimg" >Banco de Dados</a></li>
   
   <li><a onclick="Mitocondrias()" href="#" class="active3" >Mitocondrias</a></li>
@@ -49,7 +49,7 @@
   <main>
   <nav class="menu">
 	<ul>
-<li><a onclick="sobre()" href="#" class="active3">Sobre </a></li>
+<li><a onclick="sobre()" href="#" class="active3">Pergunta </a></li >
     <li><a onclick="index()" href="#" class="active3" id="menuimg" >Banco de Dados</a></li>
   
   <li><a onclick="Mitocondrias()" href="#" class="active3" >Mitocondrias</a></li>
@@ -63,45 +63,24 @@
   
   
    <section id="secao2" class="slide">
-<div><h1 class="Texto313" style="text-align:center">Perguntas</h1><br></div>
+
   
+ 
+  <div><h1 class="Texto313" style="text-align:center">Banco de Dados</h1><br></div>
    <section id="secao1322" class="slide" >
 	
+ 
+</fieldset>
 
 	 
 	 <aside id="lateral20_11" >
 	<div id="sobre">
-	 <div class="div1111"><img src="mitoc.gif"></div>
-	  <div class="div2111">
-	  
+	 <div class="div1111" style="width:100%"><img src="mitoc.gif"></div>
 	 
-	  
-	  
-	  <p>Faça sua pergunta: </p><br>
-
-<fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Pergunta</legend>
-  <form name="frmFaleConosco" action="enviar.php" method="post">
-
- <TextArea name="txtNome" id="Perguntatendeu" cols="60" rows="1" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
-
-</form>
- 
-<input type="submit" onclick="resposta()">
- 
-
-
-
-	 
-
-	</fieldset>
-	
-	  </div>
 	 </div>  
 
 	</aside>
   </section>
-  
-  
   
 
 
@@ -198,7 +177,7 @@
   
   
    <section id="secao2" class="slide">
-<div><h1 class="Texto313" style="text-align:center">Perguntas</h1><br></div>
+<div><h1 class="Texto313" style="text-align:center">Mitocondria</h1><br></div>
   
    <section id="secao1322" class="slide" >
 	
@@ -347,12 +326,12 @@
 	 
 	 
 	 
-	  <div class="content" id="Mitocondrias" style="display:none;">
+	  <div class="content" id="Mitocondrias" style="display:block;">
 
   
   
   <section id="secao2" class="slide">
-<div><h1 class="Texto313" style="text-align:center">Projetos</h1><br></div>
+<div><h1 class="Texto313" style="text-align:center">Mitocondrias</h1><br></div>
   
    <section id="secao1322" class="slide" >
 	
@@ -360,16 +339,14 @@
 	 
 	 <aside id="lateral20_11" >
 	<div id="sobre">
-	 <div class="div1111"><img src="mitoc.gif"></div>
+	 <div class="div1111"><img src="mitodomito.jpg"></div>
 	  <div class="div2111">
 	  
 	 
 	  
 	  
-	  <p>Mitocôndrias </p><br>
- Um trabalho Interdisciplinar realizados nas aulas de banco de dados, onde se foi dividido por meio de um “leilão” de cada uma das organelas presentes nas células. Foi realizado em grupo onde se foi feito um banco de dados da organela, mostrando oque está contido e oque contem a organela. 
- 
-	 
+	  <p>O que são as Mitocondrias? </p><br>
+ Mitocôndrias são organelas que participam da respiração celular que é o processo bioquímico para conseguir energia, por isso ela se localiza em porções do citoplasma onde o gasto de energia é o maior.
 	  
 	  </div>
 	 </div>  
@@ -388,16 +365,14 @@
 	 
 	 <aside id="lateral20_11" >
 	<div id="sobre">
-	 <div class="div1111"><img src="shell script.gif"></div>
-	  <div class="div2111">
+	
+	  <div class="div2111" style="width:98%">
 	  
 	 
 	  
 	  
-	  <p>Shell Script - RPG </p><br>
-
-Um projeto da matéria de fundamentos de informática, onde está sendo feito uma lista de comandos “Linux” para entender mais sobre esses conceitos, como um mini projeto estou fazendo uma saga RPG, que está sendo iniciada no shell script, onde se foi feito uma introdução ao próximo jogo.
-
+	  
+As mitocôndrias são revestidas por duas membranas, uma externa e outra mais interna, que são separadas pelo espaço intermembranoso. A membrana interna das mitocôndrias apresenta várias dobras, que formam as chamadas cristas mitocondriais, as quais apresentam o papel de ampliar a superfície dessa membrana. Esse envoltório interno delimita a denominada matriz mitocondrial, local onde se encontram ribossomos, DNA, RNA e enzimas, além da presença de água e íons.
  
 	 
 	  
@@ -414,19 +389,18 @@ Um projeto da matéria de fundamentos de informática, onde está sendo feito um
 	 
 	 <aside id="lateral20_11" >
 	<div id="sobre">
-	 <div class="div1111"><img src="starbucks.gif"></div>
+	 <div class="div1111"><img src="dnadodna.png"></div>
 	  <div class="div2111">
 	  
 	 
 	  
 	  
-	  <p>Starbucks – Roteiro Reunião	</p><br>
+	  
 	
 
-Esse foi um trabalho escolar com principal objetivo saber se portar em uma reunião. Foi feito sobre tema livre, nosso grupo fez sobre uma empresa de café que queria derrubar sua concorrente. Se foi feito um roteiro português/inglês. 
+Cada mitocôndria apresenta DNA próprio, que é diferente do DNA nuclear. O DNA das mitocôndrias é muito semelhante ao encontrado em células procariontes, podendo concluir que antigamente eles eram organismos procariontes que foram englobados por organismos eucariontes (teoria endossimbiótica). Como elas tem DNA próprio, elas não tem a necessidade de receber proteínas do DNA nuclear, podendo produzir para si mesmo. Além disso, essas organelas possuem a capacidade de se dividir, gerando outra mitocôndria.
+Geralmente as mitocôndrias são encontradas em grande quantidade em células muito ativas como as do músculo estriado esquelético, que precisam de muita energia para fazer o coração bater.
 
-
-	 
 	  
 	  </div>
 	 </div>  
@@ -435,63 +409,33 @@ Esse foi um trabalho escolar com principal objetivo saber se portar em uma reuni
   </section>
   
   
-  
-
-  </section>
-  <section id="secao2" class="slide">
-
-
    <section id="secao1322" class="slide" >
 	
 
 	 
 	 <aside id="lateral20_11" >
 	<div id="sobre">
-	 <div class="div1111"><img src="gitku2.png"></div>
-	  <div class="div2111">
+	 
+	  <div class="div2111" style="width:100%">
 	  
 	 
 	  
-	  <p>Projetos online com Github e Heroku </p><br>
-Aprendi que melhor que ficar abrindo pasta a pasta, é muito mais fácil realizar isso apenas colocando apenas um link.
-	 
 	  
-	  </div>
-	 </div>  
-
-	</aside>
-  </section>
-  
-  
-     <section id="secao1322" class="slide" >
+	  	  
+	  <p>Curiosidade </p><br>
 	
 
-	 
-	 <aside id="lateral20_11" >
-	<div id="sobre">
-	 <div class="div1111"><img src="pastoral .jpg"></div>
-	  <div class="div2111">
-	  
-	 
-	  
-	  
-	 <p>Projeto Social</p><br>
-Frequentemente realizo um serviço social na pastoral dos coroinhas e cerimoniarios na paroquia são Paulo apostolo no zaira. 
+As mitocôndrias presentes em nosso corpo são sempre de origem materna? No momento da fecundação, as mitocôndrias do espermatozoide são destruídas, permanecendo apenas aquelas presentes no óvulo, a célula reprodutiva feminina
 
- 
-	 
 	  
 	  </div>
 	 </div>  
 
 	</aside>
   </section>
-  
-  
-  
 
   </section>
-   
+ 
   
   
 
@@ -602,7 +546,7 @@ Frequentemente realizo um serviço social na pastoral dos coroinhas e cerimoniar
 	 
 	 
 	 
-	     <div class="content" id="sobrehtml" style="display:block">
+	     <div class="content" id="sobrehtml" style="display:none">
 
   
 
@@ -611,81 +555,42 @@ Frequentemente realizo um serviço social na pastoral dos coroinhas e cerimoniar
 
 	  
  <section id="secao2" class="slide">
-<div><h1 class="Texto313" style="text-align:center" id="pt-s">Sobre</h1><br></div>
-
-   <section id="secao1322" class="slide" >
+  <section id="secao1322" class="slide" >
 	
-
+<div><h1 class="Texto313" style="text-align:center">Perguntas</h1><br></div>
 	 
-	 <aside id="lateral20_112" >
+	 <aside id="lateral20_11" >
+	 
 	<div id="sobre">
-	 <div class="div1111"><img src="Logofinal.jpg"></div>
+	 <div class="div1111"><img src="mitoc.gif"></div>
 	  <div class="div2111">
 	  
 	 
-	  <p>História e objetivo</p><br>
-	
-Nasci em 2004, atualmente tenho 15 anos, estudei na toca do espertinho, Francisca Lopes Negri, e também no “Viscondão”, ou Therezinha Sartori, Estudo atualmente na etec de Rio grande da Serra, fiz alguns cursinhos.
-Faço cursos pela internet, atualmente um de PHP.
-Meu principal objetivo é me formar na área de Programação, especificamente desenvolvimento de software.
-
- 
-	 
 	  
+	  
+	  <p>Faça sua pergunta: </p><br>
+<fieldset id="dadosUsuario" style="border:none;text-align:center;">
+<fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Pergunta</legend>
+  <form name="frmFaleConosco" action="enviar.php" method="post">
+
+ <TextArea name="txtNome" id="Perguntatendeu" cols="60" rows="1" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+
+</form>
+ 
+<input type="submit" onclick="resposta()">
+ 
+
+
+
+	 
+</fieldset>
+	</fieldset>
+	
 	  </div>
 	 </div>  
 
 	</aside>
   </section>
-  
-  
-  <section id="secao1322" class="slide" >
-	
-
-	 <aside id="lateral20_1" >
-	<div class="div3" style="background-image: url('Logofinal3.jpg');background-size:100% 100%;padding:0;width:100%;height:100%;"id="teste12" >
-	
-	<div class="div3" style="background:#f7c27500;padding:0;width:100%;height:100%;" >
-
-<div class="div51" style="visibility:hidden;"><a href="" >Saiba Mais</a></div>	
-<div class="div51" style="visibility:hidden;"><a href="" >Saiba Mais</a></div>
-<div class="div51" style="visibility:hidden"><a href="" >Saiba Mais</a></div>
-<div class="div51" style="visibility:hidden"><a href="" >Saiba Mais</a></div>	
-<div class="div51" >Curiosidade <br> Meu nome. </div>
-
-<br><br><br>	
-
-</div>
-	
-
-
-</div>
-
-	</aside>
-	 <aside id="lateral20_1" >
-	<div class="div3" style="background-image: url('Logofinal3.jpg');background-size:100% 100%;padding:0;width:100%;height:100%;"id="teste12" >
-	
-	<div class="div3" style="background:#f7c27500;padding:0;width:100%;height:100%;" >
-
-<div class="div51" style="visibility:hidden"><a href="" >Saiba Mais</a></div>
-<div class="div51" style="visibility:hidden"><a href="" >Saiba Mais</a></div>
-<div class="div51" style="visibility:hidden"><a href="" >Saiba Mais</a></div>	
-<div class="div51" style="visibility:hidden"><a href="" >Saiba Mais</a></div>	
-<div class="div51">Filosofia de vida<br>Ser feliz para fazer os outros felizes.</div>
-
-<br><br><br>	
-
-</div>
-	
-
-
-</div>
-
-	</aside>
-  </section>
-  
-  
-  
 
   </section>
   

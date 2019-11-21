@@ -10,13 +10,13 @@ function resposta() {
 	sobre_html.style.display = "none"
     mitocondrias_html.style.display = "none"
 	Pergunta1.style.display = "block"
-	var stateObj = { foo: "bar" };
+/*	var stateObj = { foo: "bar" };
 function changldd()
 {
    history.pushState(stateObj, "Mittocndrias", "Pergunta 1");
    clearInterval(cmd);
 }
-var cmd = setInterval(changldd, 100);
+var cmd = setInterval(changldd, 100);*/
     break;
   case "teste2":
   
@@ -62,13 +62,13 @@ let Pergunta1  = document.querySelector('#Pergunta1')
 	sobre_html.style.display = "none"
 mitocondrias_html.style.display = "block"
 Pergunta1.style.display = "none"
-var stateObj = { foo: "bar" };
+/*var stateObj = { foo: "bar" };
 function changl()
 {
    history.pushState(stateObj, "Mittocndrias", "Mitocondrias");
    clearInterval(cm);
 }
-var cm = setInterval(changl, 100);
+var cm = setInterval(changl, 100);*/
 }
 function index() {	
 let index_html = document.querySelector('#Index')
@@ -80,13 +80,13 @@ Pergunta1.style.display = "none"
 	sobre_html.style.display = "none"
 mitocondrias_html.style.display = "none"
 
-var stateObj = { foo: "bar" };
+/*var stateObj = { foo: "bar" };
 function changrl()
 {
    history.pushState(stateObj, "Mittocndrias", "Index");
  clearInterval(mc);
 }
-var mc = setInterval(changrl, 100);
+var mc = setInterval(changrl, 100);*/
 
 		
 }
@@ -100,13 +100,13 @@ Pergunta1.style.display = "none"
 	sobre_html.style.display = "block"
 mitocondrias_html.style.display = "none"
 
-var stateObj = { foo: "bar" };
+/*var stateObj = { foo: "bar" };
 function cmyurl()
 {
    history.pushState(stateObj, "Mittocndrias", "Sobre");
  clearInterval(ch);
 }
-var ch = setInterval(cmyurl, 100);
+var ch = setInterval(cmyurl, 100);*/
 
 		
 }

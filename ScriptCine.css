@@ -8,18 +8,7 @@
 	display:block;
 	z-index:200;
 }
- @media screen and (max-width: 800px) and (min-width: 100px) {
-	 
-	.menu .active3 {
-    width: 100%;
-   
-} 
-	.menu2 .active3 {
-    width: 100%;
-   
-} 
- }
- 
+
  
  #lateral21 table { float:Left; 
 width:100%; 
@@ -1704,3 +1693,31 @@ font-size:140%;
   color: white;
 }
 
+ @media screen and (max-width: 800px) and (min-width: 100px) {
+	 
+	.menu .active3 {
+    width: 100%;
+   
+} 
+	.menu2 .active3 {
+    width: 100%;
+   
+} 
+#secao1322 {
+    height: 850px;
+	
+}
+#secao1322 #sobre .div1111 {
+    float: left;
+    width: 100%;
+    height: 50%;
+    
+}
+#secao1322 #sobre .div2111 {
+    float: left;
+    width: 100%;
+    height: 50%;
+    
+}
+ }
+ 

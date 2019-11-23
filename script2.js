@@ -1,15 +1,23 @@
 function resposta() {
-	let pergunta = frmFaleConosco.txtNome.value
-	switch (pergunta) {
-    case "Qual Número de Mitocôndrias dentro de uma celula?" :
-    let index_html = document.querySelector('#Index')
+	   let index_html = document.querySelector('#Index')
     let mitocondrias_html = document.querySelector('#Mitocondrias')
     let sobre_html = document.querySelector('#sobrehtml')
 	let Pergunta1  = document.querySelector('#Pergunta1')
+	let Pergunta2  = document.querySelector('#Pergunta2')
+	let Pergunta3  = document.querySelector('#Pergunta3')
+	let Pergunta4  = document.querySelector('#Pergunta4')
+	let Pergunta5  = document.querySelector('#Pergunta5')
+	let Pergunta6  = document.querySelector('#Pergunta6')
+	let pergunta = frmFaleConosco.txtNome.value
+	switch (pergunta) {
+	case "1" :
+ 
 	index_html.style.display = "none"
 	sobre_html.style.display = "none"
     mitocondrias_html.style.display = "none"
 	Pergunta1.style.display = "block"
+	Pergunta2.style.display = "none"
+	Pergunta3.style.display = "none"
 /*	var stateObj = { foo: "bar" };
 function changldd()
 {
@@ -18,11 +26,202 @@ function changldd()
 }
 var cmd = setInterval(changldd, 100);*/
     break;
-  case "teste2":
-  
+    case "Qual Número de Mitocôndrias dentro de uma célula?" :
+ 
+	index_html.style.display = "none"
+	sobre_html.style.display = "none"
+    mitocondrias_html.style.display = "none"
+	Pergunta1.style.display = "block"
+	Pergunta2.style.display = "none"
+	Pergunta3.style.display = "none"
+	Pergunta4.style.display = "none"
+	Pergunta5.style.display = "none"
+	Pergunta6.style.display = "none"
+/*	var stateObj = { foo: "bar" };
+function changldd()
+{
+   history.pushState(stateObj, "Mittocndrias", "Pergunta 1");
+   clearInterval(cmd);
+}
+var cmd = setInterval(changldd, 100);*/
     break;
-  case "teste3":
+  case "qual número de mitocôndrias dentro de uma célula?":
+ index_html.style.display = "none"
+	sobre_html.style.display = "none"
+    mitocondrias_html.style.display = "none"
+	Pergunta1.style.display = "block"
+	Pergunta2.style.display = "none"
+	Pergunta3.style.display = "none"
+	Pergunta4.style.display = "none"
+	Pergunta5.style.display = "none"
+	Pergunta6.style.display = "none"
+	/*	var stateObj = { foo: "bar" };
+function changldd()
+{
+   history.pushState(stateObj, "Mittocndrias", "Pergunta 1");
+   clearInterval(cmd);
+}
+var cmd = setInterval(changldd, 100);*/
+    break;
+	   case "qual numero de mitocondrias dentro de uma celula?" :
   
+	index_html.style.display = "none"
+	sobre_html.style.display = "none"
+    mitocondrias_html.style.display = "none"
+	Pergunta1.style.display = "block"
+	Pergunta2.style.display = "none"
+	Pergunta3.style.display = "none"
+	Pergunta4.style.display = "none"
+	Pergunta5.style.display = "none"
+	Pergunta6.style.display = "none"
+/*	var stateObj = { foo: "bar" };
+function changldd()
+{
+   history.pushState(stateObj, "Mittocndrias", "Pergunta 1");
+   clearInterval(cmd);
+}
+var cmd = setInterval(changldd, 100);*/
+    break;
+  case "Qual Numero de Mitocondrias dentro de uma celula?":
+   
+index_html.style.display = "none"
+	sobre_html.style.display = "none"
+    mitocondrias_html.style.display = "none"
+	Pergunta1.style.display = "block"
+	Pergunta2.style.display = "none"
+	Pergunta3.style.display = "none"
+	Pergunta4.style.display = "none"
+	Pergunta5.style.display = "none"
+	Pergunta6.style.display = "none"
+	/*	var stateObj = { foo: "bar" };
+function changldd()
+{
+   history.pushState(stateObj, "Mittocndrias", "Pergunta 1");
+   clearInterval(cmd);
+}
+var cmd = setInterval(changldd, 100);*/
+    break;
+  case "2":
+
+	index_html.style.display = "none"
+	sobre_html.style.display = "none"
+    mitocondrias_html.style.display = "none"
+	Pergunta1.style.display = "none"
+	Pergunta2.style.display = "block"
+	Pergunta3.style.display = "none"
+	Pergunta4.style.display = "none"
+	Pergunta5.style.display = "none"
+	Pergunta6.style.display = "none"
+    break;
+  case "As mitocôndrias são consideradas as “casas de força” das células vivas. Tal analogia refere-se ao fato de as mitocôndrias:":
+
+	index_html.style.display = "none"
+	sobre_html.style.display = "none"
+    mitocondrias_html.style.display = "none"
+	Pergunta1.style.display = "none"
+	Pergunta2.style.display = "block"
+	Pergunta3.style.display = "none"
+	Pergunta4.style.display = "none"
+	Pergunta5.style.display = "none"
+	Pergunta6.style.display = "none"
+    break;
+	 case "3":
+
+	index_html.style.display = "none"
+	sobre_html.style.display = "none"
+    mitocondrias_html.style.display = "none"
+	Pergunta1.style.display = "none"
+	Pergunta2.style.display = "none"
+	Pergunta3.style.display = "block"
+	Pergunta4.style.display = "none"
+	Pergunta5.style.display = "none"
+	Pergunta6.style.display = "none"
+    break;
+  case "3.	Uma vez no citoplasma, a glicose participará do processo de respiração celular, resultando, no final, gás carbônico, água e liberação de energia sob a forma de ATP. Essa transformação ocorre primeiramente no citoplasma e posteriormente no interior de uma organela citoplasmática. O nome da organela e a sequência completa dos acontecimentos, incluindo o que ocorre no citoplasma, correspondem à:":
+
+	index_html.style.display = "none"
+	sobre_html.style.display = "none"
+    mitocondrias_html.style.display = "none"
+	Pergunta1.style.display = "none"
+	Pergunta2.style.display = "none"
+	Pergunta3.style.display = "block"
+	Pergunta4.style.display = "none"
+	Pergunta5.style.display = "none"
+	Pergunta6.style.display = "none"
+    break;
+	 case "4":
+
+	index_html.style.display = "none"
+	sobre_html.style.display = "none"
+    mitocondrias_html.style.display = "none"
+	Pergunta1.style.display = "none"
+	Pergunta2.style.display = "none"
+	Pergunta3.style.display = "none"
+	Pergunta4.style.display = "block"
+	Pergunta5.style.display = "none"
+	Pergunta6.style.display = "none"
+    break;
+	 case "A teoria endossimbiótica tenta explicar a origem da mitocôndria e do cloroplasto. Segundo essa teoria, células procariontes foram fagocitadas por células eucariontes e estabeleceram uma endossimbiose. Marque a alternativa que apresenta evidências dessa teoria:":
+
+	index_html.style.display = "none"
+	sobre_html.style.display = "none"
+    mitocondrias_html.style.display = "none"
+	Pergunta1.style.display = "none"
+	Pergunta2.style.display = "none"
+	Pergunta3.style.display = "none"
+	Pergunta4.style.display = "block"
+	Pergunta5.style.display = "none"
+	Pergunta6.style.display = "none"
+    break;
+	
+	 case "5":
+
+	index_html.style.display = "none"
+	sobre_html.style.display = "none"
+    mitocondrias_html.style.display = "none"
+	Pergunta1.style.display = "none"
+	Pergunta2.style.display = "none"
+	Pergunta3.style.display = "none"
+	Pergunta4.style.display = "none"
+	Pergunta5.style.display = "block"
+	Pergunta6.style.display = "none"
+    break;
+	 case "As mitocôndrias são estruturas com dupla membrana. A membrana mais externa apresenta-se lisa, enquanto a interna possui dobras que são chamadas de:":
+
+	index_html.style.display = "none"
+	sobre_html.style.display = "none"
+    mitocondrias_html.style.display = "none"
+	Pergunta1.style.display = "none"
+	Pergunta2.style.display = "none"
+	Pergunta3.style.display = "none"
+	Pergunta4.style.display = "none"
+	Pergunta5.style.display = "block"
+	Pergunta6.style.display = "none"
+    break;
+	
+	 case "6":
+
+	index_html.style.display = "none"
+	sobre_html.style.display = "none"
+    mitocondrias_html.style.display = "none"
+	Pergunta1.style.display = "none"
+	Pergunta2.style.display = "none"
+	Pergunta3.style.display = "none"
+	Pergunta4.style.display = "none"
+	Pergunta5.style.display = "none"
+	Pergunta6.style.display = "block"
+    break;
+		 case "As mitocôndrias são organelas relacionadas com qual processo energético celular?":
+
+	index_html.style.display = "none"
+	sobre_html.style.display = "none"
+    mitocondrias_html.style.display = "none"
+	Pergunta1.style.display = "none"
+	Pergunta2.style.display = "none"
+	Pergunta3.style.display = "none"
+	Pergunta4.style.display = "none"
+	Pergunta5.style.display = "none"
+	Pergunta6.style.display = "block"
     break;
   default:
    
@@ -58,10 +257,21 @@ let index_html = document.querySelector('#Index')
 let mitocondrias_html = document.querySelector('#Mitocondrias')
 let sobre_html = document.querySelector('#sobrehtml')
 let Pergunta1  = document.querySelector('#Pergunta1')
-	index_html.style.display = "none"
-	sobre_html.style.display = "none"
+let Pergunta2  = document.querySelector('#Pergunta2')
+let Pergunta3  = document.querySelector('#Pergunta3')
+let Pergunta4  = document.querySelector('#Pergunta4')
+	let Pergunta5  = document.querySelector('#Pergunta5')
+	let Pergunta6  = document.querySelector('#Pergunta6')
+	Pergunta4.style.display = "none"
+	Pergunta5.style.display = "none"
+	Pergunta6.style.display = "none"
+Pergunta3.style.display = "none"
+Pergunta2.style.display = "none"
+index_html.style.display = "none"
+sobre_html.style.display = "none"
 mitocondrias_html.style.display = "block"
 Pergunta1.style.display = "none"
+
 /*var stateObj = { foo: "bar" };
 function changl()
 {
@@ -75,9 +285,19 @@ let index_html = document.querySelector('#Index')
 let mitocondrias_html = document.querySelector('#Mitocondrias')
 let sobre_html = document.querySelector('#sobrehtml')
 let Pergunta1  = document.querySelector('#Pergunta1')
+let Pergunta2  = document.querySelector('#Pergunta2')
+let Pergunta3  = document.querySelector('#Pergunta3')
+let Pergunta4  = document.querySelector('#Pergunta4')
+	let Pergunta5  = document.querySelector('#Pergunta5')
+	let Pergunta6  = document.querySelector('#Pergunta6')
+	Pergunta4.style.display = "none"
+	Pergunta5.style.display = "none"
+	Pergunta6.style.display = "none"
+Pergunta3.style.display = "none"
+Pergunta2.style.display = "none"
 Pergunta1.style.display = "none"
-	index_html.style.display = "block"
-	sobre_html.style.display = "none"
+index_html.style.display = "block"
+sobre_html.style.display = "none"
 mitocondrias_html.style.display = "none"
 
 /*var stateObj = { foo: "bar" };
@@ -95,9 +315,19 @@ let index_html = document.querySelector('#Index')
 let mitocondrias_html = document.querySelector('#Mitocondrias')
 let sobre_html = document.querySelector('#sobrehtml')
 let Pergunta1  = document.querySelector('#Pergunta1')
+let Pergunta2  = document.querySelector('#Pergunta2')
+let Pergunta3  = document.querySelector('#Pergunta3')
+let Pergunta4  = document.querySelector('#Pergunta4')
+	let Pergunta5  = document.querySelector('#Pergunta5')
+	let Pergunta6  = document.querySelector('#Pergunta6')
+	Pergunta4.style.display = "none"
+	Pergunta5.style.display = "none"
+	Pergunta6.style.display = "none"
+Pergunta3.style.display = "none"
+Pergunta2.style.display = "none"
 Pergunta1.style.display = "none"
-	index_html.style.display = "none"
-	sobre_html.style.display = "block"
+index_html.style.display = "none"
+sobre_html.style.display = "block"
 mitocondrias_html.style.display = "none"
 
 /*var stateObj = { foo: "bar" };

@@ -126,7 +126,7 @@
   <br>    
 <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
   
-  <TextArea name="Mensagem" id="Sassu" cols="10" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+  <TextArea name="Mensagem" id="Sassu" cols="20" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
     <br>  
   </fieldSet>
 
@@ -246,7 +246,7 @@
   <br>    
 <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
   
-  <TextArea name="Mensagem" id="Sassu" cols="10" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+  <TextArea name="Mensagem" id="Sassu" cols="20" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
     <br>  
   </fieldSet>
 
@@ -377,7 +377,7 @@ As mitocôndrias realizam respiração celular, processo no qual o oxigênio atu
   <br>    
 <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
   
-  <TextArea name="Mensagem" id="Sassu" cols="10" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+  <TextArea name="Mensagem" id="Sassu" cols="20" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
     <br>  
   </fieldSet>
 
@@ -494,7 +494,7 @@ A mitocôndria é a organela responsável pela respiração celular. O processo 
   <br>    
 <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
   
-  <TextArea name="Mensagem" id="Sassu" cols="10" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+  <TextArea name="Mensagem" id="Sassu" cols="20" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
     <br>  
   </fieldSet>
 
@@ -605,7 +605,7 @@ O DNA circular e próprio, a dupla membrana, a capacidade de autoduplicação e 
   <br>    
 <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
   
-  <TextArea name="Mensagem" id="Sassu" cols="10" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+  <TextArea name="Mensagem" id="Sassu" cols="20" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
     <br>  
   </fieldSet>
 
@@ -715,7 +715,7 @@ A membrana com invaginações é denominada de cristas mitocondriais.
   <br>    
 <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
   
-  <TextArea name="Mensagem" id="Sassu" cols="10" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+  <TextArea name="Mensagem" id="Sassu" cols="20" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
     <br>  
   </fieldSet>
 
@@ -828,7 +828,7 @@ As mitocôndrias são as organelas responsáveis pela respiração celular, proc
   <br>    
 <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
   
-  <TextArea name="Mensagem" id="Sassu" cols="10" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+  <TextArea name="Mensagem" id="Sassu" cols="20" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
     <br>  
   </fieldSet>
 
@@ -990,7 +990,7 @@ As mitocôndrias presentes em nosso corpo são sempre de origem materna? No mome
   <br>    
 <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
   
-  <TextArea name="Mensagem" id="Sassu" cols="10" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+  <TextArea name="Mensagem" id="Sassu" cols="20" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
     <br>  
   </fieldSet>
 
@@ -1151,7 +1151,7 @@ As mitocôndrias presentes em nosso corpo são sempre de origem materna? No mome
   <br>    
 <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
   
-  <TextArea name="Mensagem" id="Sassu" cols="10" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+  <TextArea name="Mensagem" id="Sassu" cols="20" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
     <br>  
   </fieldSet>
 

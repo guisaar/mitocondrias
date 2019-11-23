@@ -9,7 +9,7 @@
 }
 
 .header-paralax {
-    background-image: url('banner2sad2.png');
+    background-image: url('Biologiaimageheader.jpg');
     background-size: cover;  background-size: 100% 100%;
     width: 100%;
     position: fixed;
@@ -147,7 +147,7 @@ overflow:visible;
 
 
 .menu .active3 {
-   width:15%;
+   width:19%;
 	float:left;
 
 margin-right:3%;
@@ -378,7 +378,7 @@ overflow:visible;
 }
 
 .menu2 .active3 {
-  width:15%;
+  width:19%;
 	float:left;
 
 margin-right:3%;

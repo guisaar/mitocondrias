@@ -1084,7 +1084,7 @@ As mitocôndrias presentes em nosso corpo são sempre de origem materna? No mome
 <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Pergunta</legend>
   <form name="frmFaleConosco" action="enviar.php" method="post">
 
- <TextArea name="txtNome" id="Perguntatendeu" cols="30" rows="2" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+ <TextArea name="txtNome" id="Perguntatendeu" cols="30" rows="1" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
 
 </form>
  

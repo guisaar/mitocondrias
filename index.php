@@ -18,7 +18,7 @@
 <body class="avadaKedabra">
 
   <header class="header-paralax">
-    <h1>Olá, Somos a <font>Mitocondria</font>.<br> nós somos uma parte de você.
+    <h1>Olá, Somos a <font> Mitocôndria</font>.<br> nós somos uma parte de você.
 	<div id="Mywork" onclick="quantotestemeu()">Veja Sobre<img src="setadireta2.png" style="width:auto;margin-left:5%;margin-top:auto;max-height:20px;" id="imgwork"> </div>
 	
 	</h1>
@@ -29,13 +29,11 @@
   
    <nav class="menu2">
 	<ul>
-<li><a onclick="sobre()" href="#" class="active3">Pergunta </a></li >
+	<li><a onclick="Mitocondrias()" href="#" class="active3" >Mitocôndrias</a></li>
     <li><a onclick="index()" href="#" class="active3" id="menuimg" >Banco de Dados</a></li>
+<li><a onclick="sobre()" href="#" class="active3">Pergunta </a></li >
   
-  <li><a onclick="Mitocondrias()" href="#" class="active3" >Mitocondrias</a></li>
   
-   
-   
 
   
 
@@ -49,10 +47,9 @@
   <main>
   <nav class="menu">
 	<ul>
-<li><a onclick="sobre()" href="#" class="active3">Pergunta </a></li >
+<li><a onclick="Mitocondrias()" href="#" class="active3" >Mitocôndrias</a></li>
     <li><a onclick="index()" href="#" class="active3" id="menuimg" >Banco de Dados</a></li>
-  
-  <li><a onclick="Mitocondrias()" href="#" class="active3" >Mitocondrias</a></li>
+<li><a onclick="sobre()" href="#" class="active3">Pergunta </a></li >
 </ul>
 
 </nav>
@@ -67,7 +64,7 @@
   
  
   <div><h1 class="Texto313" style="text-align:center">Banco de Dados</h1><br></div>
-   <section id="secao1322" class="slide" >
+   <section id="secao1322" style="height:750px" class="slide" >
 	
  
 </fieldset>
@@ -75,7 +72,7 @@
 	 
 	 <aside id="lateral20_11" >
 	<div id="sobre">
-	 <div class="div1111" style="width:100%"><img src="mitoc.gif"></div>
+	 <div class="div1111" style="width:100%"><img src="banco.gif"></div>
 	 
 	 </div>  
 
@@ -129,7 +126,7 @@
   <br>    
 <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
   
-  <TextArea name="Mensagem" id="Sassu" cols="60" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+  <TextArea name="Mensagem" id="Sassu" cols="10" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
     <br>  
   </fieldSet>
 
@@ -177,7 +174,7 @@
   
   
    <section id="secao2" class="slide">
-<div><h1 class="Texto313" style="text-align:center">Mitocondria</h1><br></div>
+<div><h1 class="Texto313" style="text-align:center">Mitocôndrias</h1><br></div>
   
    <section id="secao1322" class="slide" >
 	
@@ -189,9 +186,10 @@
 	  <div class="div2111">
 	  
 	 
+	  <h1>/*1.Qual número de mitocôndrias dentro de uma célula?*/</h1><BR>
 	  
-	  
-	<h1>Select from</h1>
+	<h1>Select <font>"QuantidadePcelula"</font> from <font>Mitocôndrias</font></h1><BR>
+	O número de Mitocôndrias varia de dezenas até centenas, dependendo do tipo de célula.
 	
 	  </div>
 	 </div>  
@@ -248,7 +246,7 @@
   <br>    
 <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
   
-  <TextArea name="Mensagem" id="Sassu" cols="60" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+  <TextArea name="Mensagem" id="Sassu" cols="10" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
     <br>  
   </fieldSet>
 
@@ -300,6 +298,111 @@
 	 
 	 
 	 
+		  <div class="content" id="Pergunta2" style="display:none">
+
+  
+
+  
+  
+   <section id="secao2" class="slide">
+<div><h1 class="Texto313" style="text-align:center">Mitocôndrias</h1><br></div>
+  
+   <section id="secao1322" class="slide" >
+	
+
+	 
+	 <aside id="lateral20_11" >
+	<div id="sobre">
+	 <div class="div1111"><img src="ATP.jpg"></div>
+	  <div class="div2111">
+	  
+	 
+	  <h1>/*2.As mitocôndrias são consideradas as “casas de força” das células vivas. Tal analogia refere-se ao fato de as mitocôndrias.*/</h1><BR>
+	  
+	<h1>Select <font>"Não sei"</font> from <font>Mitocôndrias</font></h1><BR>
+As mitocôndrias realizam respiração celular, processo no qual o oxigênio atua oxidando moléculas orgânicas e produzindo ATP(um nucleotídeo responsável pelo armazenamento de energia em suas ligações químicas.).
+	
+	  </div>
+	 </div>  
+
+	</aside>
+  </section>
+  
+  
+  
+
+
+
+  
+
+  </section>
+   
+  
+  
+
+
+  
+
+  
+    	
+  
+  
+  
+  
+    <section id="secao21" class="slide">
+
+   
+<footer id="rodape" class="text" >
+		<h1 class="Texto" style="text-align:center" id="contato">Contato</h1><br>
+<div style="">
+
+
+ Desenvolvido por:Guilherme Saar <br>
+  <br> 
+ Proibido a distribuição ou reprodução do produto sem autorização<br>
+  <br> 
+<a href="https://www.facebook.com/guilherme.saar.7" class="fa fa-facebook"></a> Facebook <br> <br>
+
+<a href="#" class="fa fa-google"></a> Gmail<font style="visibility:hidden">ook</font> <br>
+</div>
+	
+<div style="">	
+
+
+<form action="Formulario.php"><fieldset id="dadosUsuario" style="border:none;text-align:center;">
+    <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Email</legend>
+   
+ 
+  <input type="email" name="EmailRetorno" id="SEmail"maxlength="80" placeholder="MickeyMouse@gmail.com"> <br> 
+  <br>    
+<fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
+  
+  <TextArea name="Mensagem" id="Sassu" cols="10" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+    <br>  
+  </fieldSet>
+
+  <button onclick="Senvia()" ><a href="indes.html" style="text-decoration:none;">Enviar</a></button> <button onclick="Sancelar" ><a href="" style="text-decoration:none;">Cancelar</a></button> 
+
+	 
+
+	</fieldset></form>
+
+</div>
+	</footer> 
+
+
+  </section>
+
+
+
+	
+	
+	
+	
+	
+	
+	 
+	 </div> 
 	 
 	 
 	 
@@ -312,6 +415,332 @@
 	 
 	 
 	 
+	   <div class="content" id="Pergunta3" style="display:none">
+
+  
+
+  
+  
+   <section id="secao2" class="slide">
+<div><h1 class="Texto313" style="text-align:center">Mitocôndrias</h1><br></div>
+  
+   <section id="secao1322" class="slide" >
+	
+
+	 
+	 <aside id="lateral20_11" >
+	<div id="sobre">
+	 <div class="div1111"><img src="mitoc.gif"></div>
+	  <div class="div2111">
+	  
+	 
+	  <h1>/*3.Uma vez no citoplasma, a glicose participará do processo de respiração celular, resultando, no final, gás carbônico, água e liberação de energia sob a forma de ATP. Essa transformação ocorre primeiramente no citoplasma e posteriormente no interior de uma organela citoplasmática. O nome da organela e a sequência completa dos acontecimentos, incluindo o que ocorre no citoplasma, correspondem à:*/</h1><BR>
+	  
+	<h1>Select <font>"Não sei"</font> from <font>Mitocôndrias</font></h1><BR>
+A mitocôndria é a organela responsável pela respiração celular. O processo de glicólise acontece no citoplasma.  Após esse processo, o ácido pirúvico que foi produzido na glicólise é levado para dentro da mitocôndria, onde acontecerá o ciclo de Krebs e, por fim, a cadeia respiratória.
+	
+	  </div>
+	 </div>  
+
+	</aside>
+  </section>
+  
+  
+  
+
+
+
+  
+
+  </section>
+   
+  
+  
+
+
+  
+
+  
+    	
+  
+  
+  
+  
+    <section id="secao21" class="slide">
+
+   
+<footer id="rodape" class="text" >
+		<h1 class="Texto" style="text-align:center" id="contato">Contato</h1><br>
+<div style="">
+
+
+ Desenvolvido por:Guilherme Saar <br>
+  <br> 
+ Proibido a distribuição ou reprodução do produto sem autorização<br>
+  <br> 
+<a href="https://www.facebook.com/guilherme.saar.7" class="fa fa-facebook"></a> Facebook <br> <br>
+
+<a href="#" class="fa fa-google"></a> Gmail<font style="visibility:hidden">ook</font> <br>
+</div>
+	
+<div style="">	
+
+
+<form action="Formulario.php"><fieldset id="dadosUsuario" style="border:none;text-align:center;">
+    <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Email</legend>
+   
+ 
+  <input type="email" name="EmailRetorno" id="SEmail"maxlength="80" placeholder="MickeyMouse@gmail.com"> <br> 
+  <br>    
+<fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
+  
+  <TextArea name="Mensagem" id="Sassu" cols="10" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+    <br>  
+  </fieldSet>
+
+  <button onclick="Senvia()" ><a href="indes.html" style="text-decoration:none;">Enviar</a></button> <button onclick="Sancelar" ><a href="" style="text-decoration:none;">Cancelar</a></button> 
+
+	 
+
+	</fieldset></form>
+
+</div>
+	</footer> 
+
+
+  </section>
+
+
+
+	
+	
+	
+	
+	
+	
+	 
+	 </div> 
+	 
+	 
+	 
+	 
+	 
+	 
+		  <div class="content" id="Pergunta4" style="display:none">
+
+  
+
+  
+  
+   <section id="secao2" class="slide">
+<div><h1 class="Texto313" style="text-align:center">Mitocôndrias</h1><br></div>
+  
+   <section id="secao1322" class="slide" >
+	
+
+	 
+	 <aside id="lateral20_11" >
+	<div id="sobre">
+	 <div class="div1111"><img src="mitoc.gif"></div>
+	  <div class="div2111">
+	  
+	 
+	  
+	  <h1>/*4.A teoria endossimbiótica tenta explicar a origem da mitocôndria e do cloroplasto. Segundo essa teoria, células procariontes foram fagocitadas por células eucariontes e estabeleceram uma endossimbiose. Marque a alternativa que apresenta evidências dessa teoria:*/</h1><BR>
+	<h1>Select <font>"Não sei4"</font> from <font>Mitocôndrias</font></h1><BR>
+O DNA circular e próprio, a dupla membrana, a capacidade de autoduplicação e a semelhança genética com algumas bactérias são fatores que corroboram com a teoria endossimbiótica.
+	
+	  </div>
+	 </div>  
+
+	</aside>
+  </section>
+  
+  
+  
+
+
+
+  
+
+  </section>
+   
+  
+  
+
+
+  
+
+  
+    	
+  
+  
+  
+  
+    <section id="secao21" class="slide">
+
+   
+<footer id="rodape" class="text" >
+		<h1 class="Texto" style="text-align:center" id="contato">Contato</h1><br>
+<div style="">
+
+
+ Desenvolvido por:Guilherme Saar <br>
+  <br> 
+ Proibido a distribuição ou reprodução do produto sem autorização<br>
+  <br> 
+<a href="https://www.facebook.com/guilherme.saar.7" class="fa fa-facebook"></a> Facebook <br> <br>
+
+<a href="#" class="fa fa-google"></a> Gmail<font style="visibility:hidden">ook</font> <br>
+</div>
+	
+<div style="">	
+
+
+<form action="Formulario.php"><fieldset id="dadosUsuario" style="border:none;text-align:center;">
+    <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Email</legend>
+   
+ 
+  <input type="email" name="EmailRetorno" id="SEmail"maxlength="80" placeholder="MickeyMouse@gmail.com"> <br> 
+  <br>    
+<fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
+  
+  <TextArea name="Mensagem" id="Sassu" cols="10" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+    <br>  
+  </fieldSet>
+
+  <button onclick="Senvia()" ><a href="indes.html" style="text-decoration:none;">Enviar</a></button> <button onclick="Sancelar" ><a href="" style="text-decoration:none;">Cancelar</a></button> 
+
+	 
+
+	</fieldset></form>
+
+</div>
+	</footer> 
+
+
+  </section>
+
+
+
+	
+	
+	
+	
+	
+	
+	 
+	 </div>
+	 
+	 
+	 
+	 
+	 
+		  <div class="content" id="Pergunta5" style="display:none">
+
+  
+
+  
+  
+   <section id="secao2" class="slide">
+<div><h1 class="Texto313" style="text-align:center"> Mitocôndrias</h1><br></div>
+  
+   <section id="secao1322" class="slide" >
+	
+
+	 
+	 <aside id="lateral20_11" >
+	<div id="sobre">
+	 <div class="div1111"><img src="mitoc.gif"></div>
+	  <div class="div2111">
+	  
+	 
+	  
+	  <h1>/*5.As mitocôndrias são estruturas com dupla membrana. A membrana mais externa apresenta-se lisa, enquanto a interna possui dobras que são chamadas de:*/</h1><BR>
+	<h1>Select <font>"Não sei5"</font> from <font>Mitocôndrias</font></h1><BR>
+A membrana com invaginações é denominada de cristas mitocondriais.
+	
+	  </div>
+	 </div>  
+
+	</aside>
+  </section>
+  
+  
+  
+
+
+
+  
+
+  </section>
+   
+  
+  
+
+
+  
+
+  
+    	
+  
+  
+  
+  
+    <section id="secao21" class="slide">
+
+   
+<footer id="rodape" class="text" >
+		<h1 class="Texto" style="text-align:center" id="contato">Contato</h1><br>
+<div style="">
+
+
+ Desenvolvido por:Guilherme Saar <br>
+  <br> 
+ Proibido a distribuição ou reprodução do produto sem autorização<br>
+  <br> 
+<a href="https://www.facebook.com/guilherme.saar.7" class="fa fa-facebook"></a> Facebook <br> <br>
+
+<a href="#" class="fa fa-google"></a> Gmail<font style="visibility:hidden">ook</font> <br>
+</div>
+	
+<div style="">	
+
+
+<form action="Formulario.php"><fieldset id="dadosUsuario" style="border:none;text-align:center;">
+    <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Email</legend>
+   
+ 
+  <input type="email" name="EmailRetorno" id="SEmail"maxlength="80" placeholder="MickeyMouse@gmail.com"> <br> 
+  <br>    
+<fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
+  
+  <TextArea name="Mensagem" id="Sassu" cols="10" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+    <br>  
+  </fieldSet>
+
+  <button onclick="Senvia()" ><a href="indes.html" style="text-decoration:none;">Enviar</a></button> <button onclick="Sancelar" ><a href="" style="text-decoration:none;">Cancelar</a></button> 
+
+	 
+
+	</fieldset></form>
+
+</div>
+	</footer> 
+
+
+  </section>
+
+
+
+	
+	
+	
+	
+	
+	
+	 
+	 </div>
 	 
 	 
 	 
@@ -320,10 +749,111 @@
 	 
 	 
 	 
+		  <div class="content" id="Pergunta6" style="display:none">
+
+  
+
+  
+  
+   <section id="secao2" class="slide">
+<div><h1 class="Texto313" style="text-align:center">Mitocôndrias</h1><br></div>
+  
+   <section id="secao1322" class="slide" >
+	
+
 	 
+	 <aside id="lateral20_11" >
+	<div id="sobre">
+	 <div class="div1111"><img src="mitoc.gif"></div>
+	  <div class="div2111">
+	  
 	 
+	  
+	 	<h1>/*6.As mitocôndrias são organelas relacionadas com qual processo energético celular?*/</h1><BR>
+	<h1>Select <font>"Não sei6"</font> from <font>Mitocôndrias</font></h1><BR>
+As mitocôndrias são as organelas responsáveis pela respiração celular, processo no qual a célula produz ATP(um nucleotídeo responsável pelo armazenamento de energia em suas ligações químicas.).
+	
+	  </div>
+	 </div>  
+
+	</aside>
+  </section>
+  
+  
+  
+
+
+
+  
+
+  </section>
+   
+  
+  
+
+
+  
+
+  
+    	
+  
+  
+  
+  
+    <section id="secao21" class="slide">
+
+   
+<footer id="rodape" class="text" >
+		<h1 class="Texto" style="text-align:center" id="contato">Contato</h1><br>
+<div style="">
+
+
+ Desenvolvido por:Guilherme Saar <br>
+  <br> 
+ Proibido a distribuição ou reprodução do produto sem autorização<br>
+  <br> 
+<a href="https://www.facebook.com/guilherme.saar.7" class="fa fa-facebook"></a> Facebook <br> <br>
+
+<a href="#" class="fa fa-google"></a> Gmail<font style="visibility:hidden">ook</font> <br>
+</div>
+	
+<div style="">	
+
+
+<form action="Formulario.php"><fieldset id="dadosUsuario" style="border:none;text-align:center;">
+    <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Email</legend>
+   
+ 
+  <input type="email" name="EmailRetorno" id="SEmail"maxlength="80" placeholder="MickeyMouse@gmail.com"> <br> 
+  <br>    
+<fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
+  
+  <TextArea name="Mensagem" id="Sassu" cols="10" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+    <br>  
+  </fieldSet>
+
+  <button onclick="Senvia()" ><a href="indes.html" style="text-decoration:none;">Enviar</a></button> <button onclick="Sancelar" ><a href="" style="text-decoration:none;">Cancelar</a></button> 
+
 	 
+
+	</fieldset></form>
+
+</div>
+	</footer> 
+
+
+  </section>
+
+
+
+	
+	
+	
+	
+	
+	
 	 
+	 </div>
 	 
 	 
 	  <div class="content" id="Mitocondrias" style="display:block;">
@@ -331,7 +861,7 @@
   
   
   <section id="secao2" class="slide">
-<div><h1 class="Texto313" style="text-align:center">Mitocondrias</h1><br></div>
+<div><h1 class="Texto313" style="text-align:center">Mitocôndrias</h1><br></div>
   
    <section id="secao1322" class="slide" >
 	
@@ -345,43 +875,24 @@
 	 
 	  
 	  
-	  <p>O que são as Mitocondrias? </p><br>
+	  <p>O que são as Mitocôndrias? </p><br>
  Mitocôndrias são organelas que participam da respiração celular que é o processo bioquímico para conseguir energia, por isso ela se localiza em porções do citoplasma onde o gasto de energia é o maior.
-	  
-	  </div>
-	 </div>  
-
-	</aside>
-  </section>
-  
-  
-  
-
-
-
-   <section id="secao1322" class="slide" >
-	
-
-	 
-	 <aside id="lateral20_11" >
-	<div id="sobre">
-	
-	  <div class="div2111" style="width:98%">
-	  
-	 
-	  
+	<br>
 	  
 	  
 As mitocôndrias são revestidas por duas membranas, uma externa e outra mais interna, que são separadas pelo espaço intermembranoso. A membrana interna das mitocôndrias apresenta várias dobras, que formam as chamadas cristas mitocondriais, as quais apresentam o papel de ampliar a superfície dessa membrana. Esse envoltório interno delimita a denominada matriz mitocondrial, local onde se encontram ribossomos, DNA, RNA e enzimas, além da presença de água e íons.
- 
-	 
-	  
+ 	
 	  </div>
 	 </div>  
 
 	</aside>
   </section>
   
+  
+  
+
+
+
   
      <section id="secao1322" class="slide" >
 	
@@ -479,7 +990,7 @@ As mitocôndrias presentes em nosso corpo são sempre de origem materna? No mome
   <br>    
 <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
   
-  <TextArea name="Mensagem" id="Sassu" cols="60" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+  <TextArea name="Mensagem" id="Sassu" cols="10" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
     <br>  
   </fieldSet>
 
@@ -568,7 +1079,7 @@ As mitocôndrias presentes em nosso corpo são sempre de origem materna? No mome
 	 
 	  
 	  
-	  <p>Faça sua pergunta: </p><br>
+	  <p>Faça uma pergunta, por número ou texto: </p><br>
 <fieldset id="dadosUsuario" style="border:none;text-align:center;">
 <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Pergunta</legend>
   <form name="frmFaleConosco" action="enviar.php" method="post">
@@ -640,7 +1151,7 @@ As mitocôndrias presentes em nosso corpo são sempre de origem materna? No mome
   <br>    
 <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
   
-  <TextArea name="Mensagem" id="Sassu" cols="60" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+  <TextArea name="Mensagem" id="Sassu" cols="10" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
     <br>  
   </fieldSet>
 

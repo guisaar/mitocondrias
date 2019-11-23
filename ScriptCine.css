@@ -8,7 +8,17 @@
 	display:block;
 	z-index:200;
 }
- 
+ @media screen and (max-width: 800px) and (min-width: 100px) {
+	 
+	.menu .active3 {
+    width: 100%;
+   
+} 
+	.menu2 .active3 {
+    width: 100%;
+   
+} 
+ }
  
  
  #lateral21 table { float:Left; 
@@ -1058,7 +1068,8 @@ color:red;
  background-color: #2b2929; /*cor de fundo*/
 padding:1%;
 
-
+margin-left: 1%;
+    margin-right: 1%;
  width: 98%; /*largura*/
  height:95%;
  color:white;

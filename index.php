@@ -856,6 +856,139 @@ As mitocôndrias são as organelas responsáveis pela respiração celular, proc
 	 </div>
 	 
 	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	   <div class="content" id="naoencontrado" style="display:none">
+
+  
+
+  
+  
+   <section id="secao2" class="slide">
+<div><h1 class="Texto313" style="text-align:center">ERROR</h1><br></div>
+  
+   <section id="secao1322" class="slide" >
+	
+
+	 
+	 <aside id="lateral20_11" >
+	<div id="sobre">
+	 <div class="div1111"><img src="mitoc.gif"></div>
+	  <div class="div2111">
+	  
+	 
+	  
+	 	<h1>/*ERROR 404*/</h1><BR>
+	<h1>Select <font>"_ERRORS_"</font> from <font>ERRORS</font></h1><BR>
+
+	ERROR 404 - NOT FOUND NUMBER/TEXT: <font style="color:red" id="errorNumber"></font>
+	  </div>
+	 </div>  
+
+	</aside>
+  </section>
+  
+  
+  
+
+
+
+  
+
+  </section>
+   
+  
+  
+
+
+  
+
+  
+    	
+  
+  
+  
+  
+    <section id="secao21" class="slide">
+
+   
+<footer id="rodape" class="text" >
+		<h1 class="Texto" style="text-align:center" id="contato">Contato</h1><br>
+<div style="">
+
+
+ Desenvolvido por:Guilherme Saar <br>
+  <br> 
+ Proibido a distribuição ou reprodução do produto sem autorização<br>
+  <br> 
+<a href="https://www.facebook.com/guilherme.saar.7" class="fa fa-facebook"></a> Facebook <br> <br>
+
+<a href="#" class="fa fa-google"></a> Gmail<font style="visibility:hidden">ook</font> <br>
+</div>
+	
+<div style="">	
+
+
+<form action="Formulario.php"><fieldset id="dadosUsuario" style="border:none;text-align:center;">
+    <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Email</legend>
+   
+ 
+  <input type="email" name="EmailRetorno" id="SEmail"maxlength="80" placeholder="MickeyMouse@gmail.com"> <br> 
+  <br>    
+<fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
+  
+  <TextArea name="Mensagem" id="Sassu" cols="20" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+    <br>  
+  </fieldSet>
+
+  <button onclick="Senvia()" ><a href="indes.html" style="text-decoration:none;">Enviar</a></button> <button onclick="Sancelar" ><a href="" style="text-decoration:none;">Cancelar</a></button> 
+
+	 
+
+	</fieldset></form>
+
+</div>
+	</footer> 
+
+
+  </section>
+
+
+
+	
+	
+	
+	
+	
+	
+	 
+	 </div>
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
 	  <div class="content" id="Mitocondrias" style="display:block;">
 
   

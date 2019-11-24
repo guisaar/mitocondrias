@@ -883,7 +883,7 @@ As mitocôndrias são as organelas responsáveis pela respiração celular, proc
 	 
 	 <aside id="lateral20_11" >
 	<div id="sobre">
-	 <div class="div1111"><img src="mitoc.gif"></div>
+	 <div class="div1111"><img src="error.jpg"></div>
 	  <div class="div2111">
 	  
 	 

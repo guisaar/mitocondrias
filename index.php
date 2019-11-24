@@ -182,7 +182,7 @@
 	 
 	 <aside id="lateral20_11" >
 	<div id="sobre">
-	 <div class="div1111"><img src="mitoc.gif"></div>
+	 <div class="div1111"><img src="mitodomito.jpg"></div>
 	  <div class="div2111">
 	  
 	 
@@ -430,7 +430,7 @@ As mitocôndrias realizam respiração celular, processo no qual o oxigênio atu
 	 
 	 <aside id="lateral20_11" >
 	<div id="sobre">
-	 <div class="div1111"><img src="mitoc.gif"></div>
+	 <div class="div1111"><img src="respira.jpg"></div>
 	  <div class="div2111">
 	  
 	 
@@ -541,7 +541,7 @@ A mitocôndria é a organela responsável pela respiração celular. O processo 
 	 
 	 <aside id="lateral20_11" >
 	<div id="sobre">
-	 <div class="div1111"><img src="mitoc.gif"></div>
+	 <div class="div1111"><img src="dnacircular.jpg"></div>
 	  <div class="div2111">
 	  
 	 
@@ -651,7 +651,7 @@ O DNA circular e próprio, a dupla membrana, a capacidade de autoduplicação e 
 	 
 	 <aside id="lateral20_11" >
 	<div id="sobre">
-	 <div class="div1111"><img src="mitoc.gif"></div>
+	 <div class="div1111"><img src="mitodomito.jpg"></div>
 	  <div class="div2111">
 	  
 	 
@@ -883,7 +883,7 @@ As mitocôndrias são as organelas responsáveis pela respiração celular, proc
 	 
 	 <aside id="lateral20_11" >
 	<div id="sobre">
-	 <div class="div1111"><img src="mitoc.gif"></div>
+	 <div class="div1111"><img src="celulaativa.jpg"></div>
 	  <div class="div2111">
 	  
 	 

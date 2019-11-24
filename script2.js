@@ -8,6 +8,8 @@ function resposta() {
 	let Pergunta4  = document.querySelector('#Pergunta4')
 	let Pergunta5  = document.querySelector('#Pergunta5')
 	let Pergunta6  = document.querySelector('#Pergunta6')
+		let notfood = document.querySelector('#naoencontrado')
+		let errorNumber = document.querySelector('#errorNumber')
 	let pergunta = frmFaleConosco.txtNome.value
 	switch (pergunta) {
 	case "1" :
@@ -18,6 +20,10 @@ function resposta() {
 	Pergunta1.style.display = "block"
 	Pergunta2.style.display = "none"
 	Pergunta3.style.display = "none"
+	Pergunta4.style.display = "none"
+	Pergunta5.style.display = "none"
+	Pergunta6.style.display = "none"
+	notfood.style.display = "none"
 /*	var stateObj = { foo: "bar" };
 function changldd()
 {
@@ -37,6 +43,7 @@ var cmd = setInterval(changldd, 100);*/
 	Pergunta4.style.display = "none"
 	Pergunta5.style.display = "none"
 	Pergunta6.style.display = "none"
+	notfood.style.display = "none"
 /*	var stateObj = { foo: "bar" };
 function changldd()
 {
@@ -55,6 +62,7 @@ var cmd = setInterval(changldd, 100);*/
 	Pergunta4.style.display = "none"
 	Pergunta5.style.display = "none"
 	Pergunta6.style.display = "none"
+	notfood.style.display = "none"
 	/*	var stateObj = { foo: "bar" };
 function changldd()
 {
@@ -74,6 +82,7 @@ var cmd = setInterval(changldd, 100);*/
 	Pergunta4.style.display = "none"
 	Pergunta5.style.display = "none"
 	Pergunta6.style.display = "none"
+	notfood.style.display = "none"
 /*	var stateObj = { foo: "bar" };
 function changldd()
 {
@@ -93,6 +102,7 @@ index_html.style.display = "none"
 	Pergunta4.style.display = "none"
 	Pergunta5.style.display = "none"
 	Pergunta6.style.display = "none"
+	notfood.style.display = "none"
 	/*	var stateObj = { foo: "bar" };
 function changldd()
 {
@@ -112,6 +122,7 @@ var cmd = setInterval(changldd, 100);*/
 	Pergunta4.style.display = "none"
 	Pergunta5.style.display = "none"
 	Pergunta6.style.display = "none"
+	notfood.style.display = "none"
     break;
   case "As mitocôndrias são consideradas as “casas de força” das células vivas. Tal analogia refere-se ao fato de as mitocôndrias:":
 
@@ -124,6 +135,7 @@ var cmd = setInterval(changldd, 100);*/
 	Pergunta4.style.display = "none"
 	Pergunta5.style.display = "none"
 	Pergunta6.style.display = "none"
+	notfood.style.display = "none"
     break;
 	 case "3":
 
@@ -136,6 +148,7 @@ var cmd = setInterval(changldd, 100);*/
 	Pergunta4.style.display = "none"
 	Pergunta5.style.display = "none"
 	Pergunta6.style.display = "none"
+	notfood.style.display = "none"
     break;
   case "3.	Uma vez no citoplasma, a glicose participará do processo de respiração celular, resultando, no final, gás carbônico, água e liberação de energia sob a forma de ATP. Essa transformação ocorre primeiramente no citoplasma e posteriormente no interior de uma organela citoplasmática. O nome da organela e a sequência completa dos acontecimentos, incluindo o que ocorre no citoplasma, correspondem à:":
 
@@ -148,6 +161,7 @@ var cmd = setInterval(changldd, 100);*/
 	Pergunta4.style.display = "none"
 	Pergunta5.style.display = "none"
 	Pergunta6.style.display = "none"
+	notfood.style.display = "none"
     break;
 	 case "4":
 
@@ -160,6 +174,7 @@ var cmd = setInterval(changldd, 100);*/
 	Pergunta4.style.display = "block"
 	Pergunta5.style.display = "none"
 	Pergunta6.style.display = "none"
+	notfood.style.display = "none"
     break;
 	 case "A teoria endossimbiótica tenta explicar a origem da mitocôndria e do cloroplasto. Segundo essa teoria, células procariontes foram fagocitadas por células eucariontes e estabeleceram uma endossimbiose. Marque a alternativa que apresenta evidências dessa teoria:":
 
@@ -172,6 +187,7 @@ var cmd = setInterval(changldd, 100);*/
 	Pergunta4.style.display = "block"
 	Pergunta5.style.display = "none"
 	Pergunta6.style.display = "none"
+	notfood.style.display = "none"
     break;
 	
 	 case "5":
@@ -185,6 +201,7 @@ var cmd = setInterval(changldd, 100);*/
 	Pergunta4.style.display = "none"
 	Pergunta5.style.display = "block"
 	Pergunta6.style.display = "none"
+	notfood.style.display = "none"
     break;
 	 case "As mitocôndrias são estruturas com dupla membrana. A membrana mais externa apresenta-se lisa, enquanto a interna possui dobras que são chamadas de:":
 
@@ -197,6 +214,7 @@ var cmd = setInterval(changldd, 100);*/
 	Pergunta4.style.display = "none"
 	Pergunta5.style.display = "block"
 	Pergunta6.style.display = "none"
+	notfood.style.display = "none"
     break;
 	
 	 case "6":
@@ -210,6 +228,7 @@ var cmd = setInterval(changldd, 100);*/
 	Pergunta4.style.display = "none"
 	Pergunta5.style.display = "none"
 	Pergunta6.style.display = "block"
+	notfood.style.display = "none"
     break;
 		 case "As mitocôndrias são organelas relacionadas com qual processo energético celular?":
 
@@ -222,8 +241,20 @@ var cmd = setInterval(changldd, 100);*/
 	Pergunta4.style.display = "none"
 	Pergunta5.style.display = "none"
 	Pergunta6.style.display = "block"
+	notfood.style.display = "none"
     break;
   default:
+  index_html.style.display = "none"
+	sobre_html.style.display = "none"
+    mitocondrias_html.style.display = "none"
+	Pergunta1.style.display = "none"
+	Pergunta2.style.display = "none"
+	Pergunta3.style.display = "none"
+	Pergunta4.style.display = "none"
+	Pergunta5.style.display = "none"
+	Pergunta6.style.display = "none"
+	errorNumber.innerText = `${pergunta}`
+	notfood.style.display = "block"
    
 }
 	
@@ -262,6 +293,8 @@ let Pergunta3  = document.querySelector('#Pergunta3')
 let Pergunta4  = document.querySelector('#Pergunta4')
 	let Pergunta5  = document.querySelector('#Pergunta5')
 	let Pergunta6  = document.querySelector('#Pergunta6')
+	let notfood = document.querySelector('#naoencontrado')
+		notfood.style.display = "none"
 	Pergunta4.style.display = "none"
 	Pergunta5.style.display = "none"
 	Pergunta6.style.display = "none"
@@ -290,6 +323,8 @@ let Pergunta3  = document.querySelector('#Pergunta3')
 let Pergunta4  = document.querySelector('#Pergunta4')
 	let Pergunta5  = document.querySelector('#Pergunta5')
 	let Pergunta6  = document.querySelector('#Pergunta6')
+	let notfood = document.querySelector('#naoencontrado')
+		notfood.style.display = "none"
 	Pergunta4.style.display = "none"
 	Pergunta5.style.display = "none"
 	Pergunta6.style.display = "none"
@@ -320,6 +355,8 @@ let Pergunta3  = document.querySelector('#Pergunta3')
 let Pergunta4  = document.querySelector('#Pergunta4')
 	let Pergunta5  = document.querySelector('#Pergunta5')
 	let Pergunta6  = document.querySelector('#Pergunta6')
+	let notfood = document.querySelector('#naoencontrado')
+		notfood.style.display = "none"
 	Pergunta4.style.display = "none"
 	Pergunta5.style.display = "none"
 	Pergunta6.style.display = "none"

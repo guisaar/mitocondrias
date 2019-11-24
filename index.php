@@ -436,7 +436,7 @@ As mitocôndrias realizam respiração celular, processo no qual o oxigênio atu
 	 
 	  <h1>/*3.Uma vez no citoplasma, a glicose participará do processo de respiração celular, resultando, no final, gás carbônico, água e liberação de energia sob a forma de ATP. Essa transformação ocorre primeiramente no citoplasma e posteriormente no interior de uma organela citoplasmática. O nome da organela e a sequência completa dos acontecimentos, incluindo o que ocorre no citoplasma, correspondem à:*/</h1><BR>
 	  
-	<h1>Select <font>"Não sei"</font> from <font>Mitocôndrias</font></h1><BR>
+	<h1>Select <font>"Processos","VarPro"</font> from <font>Mitocôndrias</font></h1><BR>
 A mitocôndria é a organela responsável pela respiração celular. O processo de glicólise acontece no citoplasma.  Após esse processo, o ácido pirúvico que foi produzido na glicólise é levado para dentro da mitocôndria, onde acontecerá o ciclo de Krebs e, por fim, a cadeia respiratória.
 	
 	  </div>
@@ -657,7 +657,7 @@ O DNA circular e próprio, a dupla membrana, a capacidade de autoduplicação e 
 	 
 	  
 	  <h1>/*5.As mitocôndrias são estruturas com dupla membrana. A membrana mais externa apresenta-se lisa, enquanto a interna possui dobras que são chamadas de:*/</h1><BR>
-	<h1>Select <font>"Não sei5"</font> from <font>Mitocôndrias</font></h1><BR>
+	<h1>Select <font>"Membranas"</font> from <font>Organela</font></h1><BR>
 A membrana com invaginações é denominada de cristas mitocondriais.
 	
 	  </div>

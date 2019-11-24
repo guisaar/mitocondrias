@@ -319,7 +319,7 @@
 	 
 	  <h1>/*2.As mitocôndrias são consideradas as “casas de força” das células vivas. Tal analogia refere-se ao fato de as mitocôndrias.*/</h1><BR>
 	  
-	<h1>Select <font>"Não sei"</font> from <font>Mitocôndrias</font></h1><BR>
+	<h1>Select <font>"Processos"</font> from <font>Mitocôndrias</font></h1><BR>
 As mitocôndrias realizam respiração celular, processo no qual o oxigênio atua oxidando moléculas orgânicas e produzindo ATP(um nucleotídeo responsável pelo armazenamento de energia em suas ligações químicas.).
 	
 	  </div>
@@ -770,7 +770,7 @@ A membrana com invaginações é denominada de cristas mitocondriais.
 	 
 	  
 	 	<h1>/*6.As mitocôndrias são organelas relacionadas com qual processo energético celular?*/</h1><BR>
-	<h1>Select <font>"Não sei6"</font> from <font>Mitocôndrias</font></h1><BR>
+	<h1>Select <font>"VarPro"</font> from <font>Mitocôndrias</font></h1><BR>
 As mitocôndrias são as organelas responsáveis pela respiração celular, processo no qual a célula produz ATP(um nucleotídeo responsável pelo armazenamento de energia em suas ligações químicas.).
 	
 	  </div>
@@ -856,6 +856,122 @@ As mitocôndrias são as organelas responsáveis pela respiração celular, proc
 	 </div>
 	 
 	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	 
+	  <div class="content" id="Pergunta7" style="display:none">
+
+  
+
+  
+  
+   <section id="secao2" class="slide">
+<div><h1 class="Texto313" style="text-align:center">Mitocôndrias</h1><br></div>
+  
+   <section id="secao1322" class="slide" >
+	
+
+	 
+	 <aside id="lateral20_11" >
+	<div id="sobre">
+	 <div class="div1111"><img src="mitoc.gif"></div>
+	  <div class="div2111">
+	  
+	 
+	  
+	 	<h1>/*7.qual organela é mais presente em células mais ativas?*/</h1><BR>
+	<h1>Select <font>"Nome","Funcao"</font> from <font>Organela</font></h1><BR>
+Mitocondrias,responsavel pela respiração celular. Em celulas mais ativas se encontram em maior quantidade.
+	  </div>
+	 </div>  
+
+	</aside>
+  </section>
+  
+  
+  
+
+
+
+  
+
+  </section>
+   
+  
+  
+
+
+  
+
+  
+    	
+  
+  
+  
+  
+    <section id="secao21" class="slide">
+
+   
+<footer id="rodape" class="text" >
+		<h1 class="Texto" style="text-align:center" id="contato">Contato</h1><br>
+<div style="">
+
+
+ Desenvolvido por:Guilherme Saar <br>
+  <br> 
+ Proibido a distribuição ou reprodução do produto sem autorização<br>
+  <br> 
+<a href="https://www.facebook.com/guilherme.saar.7" class="fa fa-facebook"></a> Facebook <br> <br>
+
+<a href="#" class="fa fa-google"></a> Gmail<font style="visibility:hidden">ook</font> <br>
+</div>
+	
+<div style="">	
+
+
+<form action="Formulario.php"><fieldset id="dadosUsuario" style="border:none;text-align:center;">
+    <fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Email</legend>
+   
+ 
+  <input type="email" name="EmailRetorno" id="SEmail"maxlength="80" placeholder="MickeyMouse@gmail.com"> <br> 
+  <br>    
+<fieldset id="Avaliacao" style="border-left:none;border-right:none;border-bottom:none"><legend>Mensagem</legend>
+  
+  <TextArea name="Mensagem" id="Sassu" cols="20" rows="10" placeholder="Coloque sua mensagem aqui."></textarea> <br> 
+    <br>  
+  </fieldSet>
+
+  <button onclick="Senvia()" ><a href="indes.html" style="text-decoration:none;">Enviar</a></button> <button onclick="Sancelar" ><a href="" style="text-decoration:none;">Cancelar</a></button> 
+
+	 
+
+	</fieldset></form>
+
+</div>
+	</footer> 
+
+
+  </section>
+
+
+
+	
+	
+	
+	
+	
+	
+	 
+	 </div>
 	 
 	 
 	 
@@ -1206,7 +1322,7 @@ As mitocôndrias presentes em nosso corpo são sempre de origem materna? No mome
 	 <aside id="lateral20_11" >
 	 
 	<div id="sobre">
-	 <div class="div1111"><img src="mitoc.gif"></div>
+	 <div class="div1111"><img src="pergunta.jpg"></div>
 	  <div class="div2111">
 	  
 	 

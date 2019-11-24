@@ -547,7 +547,7 @@ A mitocôndria é a organela responsável pela respiração celular. O processo 
 	 
 	  
 	  <h1>/*4.A teoria endossimbiótica tenta explicar a origem da mitocôndria e do cloroplasto. Segundo essa teoria, células procariontes foram fagocitadas por células eucariontes e estabeleceram uma endossimbiose. Marque a alternativa que apresenta evidências dessa teoria:*/</h1><BR>
-	<h1>Select <font>"Não sei4"</font> from <font>Mitocôndrias</font></h1><BR>
+	<h1>Select <font>"Origem"</font> from <font>Organela</font></h1><BR>
 O DNA circular e próprio, a dupla membrana, a capacidade de autoduplicação e a semelhança genética com algumas bactérias são fatores que corroboram com a teoria endossimbiótica.
 	
 	  </div>

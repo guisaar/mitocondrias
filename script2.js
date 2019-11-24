@@ -89,7 +89,7 @@ function changldd()
    history.pushState(stateObj, "Mittocndrias", "Pergunta 1");
    clearInterval(cmd);
 }
-var cmd = setInterval(changldd, 100);*/
+var cmd = setInterval(changldd, 100); */
     break;
   case "Qual Numero de Mitocondrias dentro de uma celula?":
    
